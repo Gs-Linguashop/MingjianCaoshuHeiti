@@ -7,7 +7,7 @@ def read_chaizi():
 				if len(parts) < 2:
 					continue  # skip lines without two tab-separated fields
 				key = parts[0].replace(' ', '')
-				value = '⿱' + parts[1].replace(' ', '')
+				value = '⿰' + parts[1].replace(' ', '')
 				result[key] = value
 	return result
 
@@ -39,18 +39,19 @@ if __name__ == "__main__":
 	for char in chars:
 		uni = format(ord(char), 'X')
 		if char not in decompositions:
-			print(f'「{char}{uni}」拆字未知，请手动添加！')
+			print(f'「{char} {uni} 」拆字未知，请手动添加！')
 		else:
 			if char not in GB_glyph_map:
-				print(f'「{char}{uni}」未收录，请手动检查！')
+				print(f'「{char} {uni} 」未收录，请手动检查！')
 			elif char != GB_glyph_map[char]:
 				char_to_use_uni = format(ord(GB_glyph_map[char]), 'X')
-				print(f'「{char}{uni}」请使用「{GB_glyph_map[char]}{char_to_use_uni}」字形。')
+				print(f'「{char} {uni} 」请使用「{GB_glyph_map[char]} {char_to_use_uni} 」字形。')
 			elif len(GB_glyph_dict[char]) > 1:
-				print(f'「{char}{uni}」字形包含以下字码，请手动添加！')
-				for item in GB_glyph_dict:
+				print(f'「{char} {uni} 」字形包含以下字码，请手动添加！')
+				for item in GB_glyph_dict[char]:
+					if item == char: continue
 					item_uni = format(ord(item), 'X')
-					print(f'「...包含{item}{item_uni}」；')
+					print(f'「...包含{item} {item_uni} 」；')
 			lines.append(f'{char}\t{decompositions[char]}')
 	
 	with open("out/new_glyphs.txt", "w", encoding="utf-8") as f:

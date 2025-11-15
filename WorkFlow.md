@@ -23,11 +23,11 @@
 * （可选）完成新字后，拆解新字中的部件；
 * 完成新字后，把新字推入[字形表](out/dictionary.txt)，确认无误后覆盖[原表](src/dictionary.txt)；
 	* 运行代码：`python3 tools/push_new_glyphs_to_dictionary.py`
-* （可选）删除[新字符](out/new_glyphs.txt)文件，它是临时性的。
+	* 检查是否有特殊新字，比如应当标记为「偏旁」或有其它写法的
+* （可选）清空[新字符](out/new_glyphs.txt)文件，它是临时性的。
 
 ## 周期存档
 * 检查WIP文档，无误后覆盖原字体文件，复制出新WIP文档；
 * 将下列文件更新至cursive-chinese-learn：
-	* src-external/components.txt；
-	* src-external/radicals.txt；
+	* MingjianCaoshuHeiti.ufo；
 	* src/dictionary.txt。

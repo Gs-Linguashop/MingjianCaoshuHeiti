@@ -45,6 +45,21 @@ def read_radical_glyph_names(file_name):
 			radical_glyph_names.setdefault(name, {})[pos] = glyph_name
 	return radical_glyph_names
 
+def add_radical_to_components(radical_glyph_name, components, radical_glyph_names, position='general'):
+	# return is_success
+	if radical_glyph_name not in radical_glyph_names:
+		print(f"Glyph missing: {radical_glyph_name} {position}")
+		return False
+	elif position in radical_glyph_names[radical_glyph_name]:
+		components.append(radical_glyph_names[radical_glyph_name][position])
+		return True
+	elif 'general' in radical_glyph_names[radical_glyph_name]:
+		components.append(radical_glyph_names[radical_glyph_name]['general'])
+		return True
+	else:
+		print(f"Glyph missing: {radical_glyph_name} {position}")
+		return False
+
 # === MAIN ===
 print("Starting glyphs creation.")
 
@@ -76,6 +91,9 @@ for line in lines:
 		print(f"Skipping malformed line: {line}")
 		continue
 
+	if line[0] == '#':
+		continue  # skip comment lines
+
 	glyph_name, comps_str = [x.strip() for x in line.split("\t", 1)]
 	comps = parse_str(comps_str)
 	components = []
@@ -83,57 +101,33 @@ for line in lines:
 		if len(comps) != 3:
 			print(f"Skipping malformed line: {line}")
 			continue
-		if comps[1] not in radical_glyph_names:
+		if not add_radical_to_components(comps[1], components, radical_glyph_names, position='left'):
 			print(f"Skipping line: {line}")
-			print(f"Left glyphs missing: {comps[1]}")
 			continue
-		if 'left' in radical_glyph_names[comps[1]]:
-			components.append(radical_glyph_names[comps[1]]['left'])
-		elif 'general' in radical_glyph_names[comps[1]]:
-			components.append(radical_glyph_names[comps[1]]['general'])
-		else:
+		if not add_radical_to_components(comps[2], components, radical_glyph_names, position='right'):
 			print(f"Skipping line: {line}")
-			print(f"Left glyphs missing: {comps[1]}")
-			continue
-		if comps[2] not in radical_glyph_names:
-			print(f"Skipping line: {line}")
-			print(f"Right glyphs missing: {comps[2]}")
-			continue
-		if 'right' in radical_glyph_names[comps[2]]:
-			components.append(radical_glyph_names[comps[2]]['right'])
-		elif 'general' in radical_glyph_names[comps[2]]:
-			components.append(radical_glyph_names[comps[2]]['general'])
-		else:
-			print(f"Skipping line: {line}")
-			print(f"Right glyphs missing: {comps[2]}")
 			continue
 	elif comps[0] == '⿱':
 		if len(comps) != 3:
 			print(f"Skipping malformed line: {line}")
 			continue
-		if comps[1] not in radical_glyph_names:
+		if not add_radical_to_components(comps[1], components, radical_glyph_names, position='top'):
 			print(f"Skipping line: {line}")
-			print(f"Top glyphs missing: {comps[1]}")
 			continue
-		if 'top' in radical_glyph_names[comps[1]]:
-			components.append(radical_glyph_names[comps[1]]['top'])
-		elif 'general' in radical_glyph_names[comps[1]]:
-			components.append(radical_glyph_names[comps[1]]['general'])
-		else:
+		if not add_radical_to_components(comps[2], components, radical_glyph_names, position='bottom'):
 			print(f"Skipping line: {line}")
-			print(f"Top glyphs missing: {comps[1]}")
 			continue
-		if comps[2] not in radical_glyph_names:
-			print(f"Skipping line: {line}")
-			print(f"Bottom glyphs missing: {comps[2]}")
+	else:
+		if len(comps) == 0:
+			print(f"Skipping malformed line: {line}")
 			continue
-		if 'bottom' in radical_glyph_names[comps[2]]:
-			components.append(radical_glyph_names[comps[2]]['bottom'])
-		elif 'general' in radical_glyph_names[comps[2]]:
-			components.append(radical_glyph_names[comps[2]]['general'])
-		else:
-			print(f"Skipping line: {line}")
-			print(f"Bottom glyphs missing: {comps[2]}")
+		is_any_radical_missing = False
+		for i in range(1, len(comps)):
+			if not add_radical_to_components(comps[i], components, radical_glyph_names):
+				print(f"Skipping line: {line}")
+				is_any_radical_missing = True
+				break
+		if is_any_radical_missing:
 			continue
 	
 	# check if components exist
@@ -141,6 +135,7 @@ for line in lines:
 	for comp in components:
 		if font.glyphs[comp] is None:
 			print(f"component {comp} missing from font")
+			print(f"Skipping line: {line}")
 			are_component_exist = False
 	if not are_component_exist: continue
 
@@ -153,6 +148,7 @@ for line in lines:
 		glyphs_created += glyph_name
 	else:
 		print(f"Glyph already exists: {glyph_name}")
+		continue
 
 	# add components to master layer
 	layer = glyph.layers[0]

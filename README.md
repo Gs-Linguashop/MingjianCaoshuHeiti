@@ -1,3 +1,5 @@
+![明鉴草书黑体](src/logo.svg)
+
 # 明鉴草书黑体
 
 这是一款笔画清晰明确的开源草书黑体字库。字库为下列用途精心设计：
@@ -35,7 +37,12 @@
 
 本字体试用[SIL/OFL开源字体授权](LICENSE.txt)，您可以免费使用，使用时请注明出处。
 
+# 备份链接
+
+* [GitHub](https://github.com/Gs-Linguashop/MingjianCaoshuHeiti.git)
+* [Gitee（国内）](https://gitee.com/awwlang/MingjianCaoshuHeiti.git)
+
 # 引用依赖
 
-* 本字库用(GlyphsApp)[https://glyphsapp.com]制作。
+* 本字库用[GlyphsApp](https://glyphsapp.com)制作。
 * 汉字拆字结构依赖[漢語拆字字典](https://github.com/kfcd/chaizi?tab=readme-ov-file)。部分词条有修改。

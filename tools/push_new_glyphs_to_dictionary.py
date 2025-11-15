@@ -45,7 +45,6 @@ sorted_lines = sorted(combined, key=sort_key)
 # --- Write output ---
 os.makedirs(os.path.dirname(out_file), exist_ok=True)
 with open(out_file, "w", encoding="utf-8") as f:
-	for line in sorted_lines:
-		f.write(line + "\n")
+	f.write("\n".join(sorted_lines))
 
 print(f"✅ Merged {len(new_entries)} new entries into {out_file}")
