@@ -3,7 +3,7 @@ import os
 # Input files
 new_file = "out/new_glyphs.txt"
 old_file = "src/dictionary.txt"
-out_file = "out/dictionary.txt"
+out_file = "src/dictionary.txt"
 
 def get_unicode_hex(char):
 	"""Return the uppercase Unicode hex string (4+ digits, zero-padded)."""

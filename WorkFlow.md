@@ -21,9 +21,10 @@
 * 在GlyphsApp中运行[随机文本生成宏](tools/generate_sample_text.py)，将新字粘入对话框，查看效果，微调；
 	* 可以重复几次确保不同情形的一致性；
 * （可选）完成新字后，拆解新字中的部件；
-* 完成新字后，把新字推入[字形表](out/dictionary.txt)，确认无误后覆盖[原表](src/dictionary.txt)；
+* 完成新字后，把新字推入[字形表](src/dictionary.txt)；
 	* 运行代码：`python3 tools/push_new_glyphs_to_dictionary.py`
-	* 检查是否有特殊新字，比如应当标记为「偏旁」或有其它写法的
+	* 将新字中“同「...」”的标签替换为“同异”或“简体”；
+	* 检查是否有特殊新字，比如应当标记为「偏旁」或有其它写法的；
 * （可选）清空[新字符](out/new_glyphs.txt)文件，它是临时性的。
 
 ## 周期存档

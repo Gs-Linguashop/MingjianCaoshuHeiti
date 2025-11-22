@@ -3,11 +3,18 @@
   <advance width="1000"/>
   <unicode hex="4E28"/>
   <outline>
-    <contour>
-      <point x="458" y="-51" type="line"/>
-      <point x="544" y="-51" type="line"/>
-      <point x="544" y="817" type="line"/>
-      <point x="458" y="817" type="line"/>
-    </contour>
+    <component base="uni2F01" identifier="E09A01A9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E09A01A9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

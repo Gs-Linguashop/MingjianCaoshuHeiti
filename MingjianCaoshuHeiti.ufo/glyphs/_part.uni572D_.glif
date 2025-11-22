@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni572D" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="113" y="599" type="line"/>
+      <point x="887" y="599" type="line"/>
+      <point x="887" y="679" type="line"/>
+      <point x="113" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="390" type="line"/>
+      <point x="813" y="390" type="line"/>
+      <point x="813" y="470" type="line"/>
+      <point x="187" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="-1" type="line"/>
+      <point x="541" y="829" type="line"/>
+      <point x="459" y="829" type="line"/>
+      <point x="459" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="176" type="line"/>
+      <point x="813" y="176" type="line"/>
+      <point x="813" y="256" type="line"/>
+      <point x="187" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="924" y="32" type="line"/>
+      <point x="76" y="32" type="line"/>
+      <point x="76" y="-48" type="line"/>
+      <point x="924" y="-48" type="line"/>
+    </contour>
+  </outline>
+</glyph>
