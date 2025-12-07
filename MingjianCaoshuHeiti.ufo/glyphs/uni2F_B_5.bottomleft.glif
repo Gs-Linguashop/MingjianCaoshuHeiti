@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2FB5.bottomleft" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="590" y="81" type="curve" smooth="yes"/>
+      <point x="590" y="806" type="line"/>
+      <point x="117" y="806" type="line"/>
+      <point x="117" y="361" type="line" smooth="yes"/>
+      <point x="117" y="201"/>
+      <point x="103" y="92"/>
+      <point x="34" y="-41" type="curve"/>
+      <point x="107" y="-77" type="line"/>
+      <point x="183" y="65"/>
+      <point x="197" y="191"/>
+      <point x="197" y="361" type="curve" smooth="yes"/>
+      <point x="197" y="726" type="line"/>
+      <point x="510" y="726" type="line"/>
+      <point x="510" y="82" type="line" smooth="yes"/>
+      <point x="510" y="-21"/>
+      <point x="537" y="-54"/>
+      <point x="630" y="-54" type="curve" smooth="yes"/>
+      <point x="843" y="-54" type="line" smooth="yes"/>
+      <point x="929" y="-54"/>
+      <point x="947" y="4"/>
+      <point x="954" y="101" type="curve"/>
+      <point x="877" y="104" type="line"/>
+      <point x="873" y="35"/>
+      <point x="868" y="26"/>
+      <point x="831" y="26" type="curve" smooth="yes"/>
+      <point x="640" y="26" type="line" smooth="yes"/>
+      <point x="598" y="26"/>
+      <point x="590" y="35"/>
+    </contour>
+    <contour>
+      <point x="478" y="359" type="line"/>
+      <point x="478" y="434" type="line"/>
+      <point x="229" y="434" type="line"/>
+      <point x="229" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="544" type="line"/>
+      <point x="478" y="544" type="line"/>
+      <point x="478" y="620" type="line"/>
+      <point x="229" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="249" type="line"/>
+      <point x="229" y="173" type="line"/>
+      <point x="478" y="173" type="line"/>
+      <point x="478" y="249" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -48,7 +48,9 @@ class RandomStringGenerator:
 		target_len = 5 * l
 		result_chars = list(input_str)
 		while len(result_chars) < target_len:
-			result_chars.append(random.choice(available_chars))
+			add_char = random.choice(available_chars)
+			if ord(add_char) > 0x3000:
+				result_chars.append(add_char)
 
 		random.shuffle(result_chars)
 		random_string = "".join(result_chars)
