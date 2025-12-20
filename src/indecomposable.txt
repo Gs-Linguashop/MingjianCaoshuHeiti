@@ -1,10 +1,13 @@
 ⺀	bottom	uni2E80.bottom
 刂	right	uni2E89
 ⺗	bottom	uni2E97
+灬	bottom	_part.diandiandian.bottom
 人	general	uni2F08
 人	left	uni2F08.left
 冂	general	uni2F0C
 力	general	uni2F12
+匚	general	uni2F15
+匸	general	uni2F15
 卜	general	uni2F18
 口	general	uni2F1D
 口	bottom	uni2F1D.bottom
@@ -30,6 +33,7 @@
 广	general	uni2F34
 弓	general	uni2F38
 弓	left	uni2F38.left
+彡	right	uni2F3A
 彳	left	uni2F3B
 心	general	uni2F3C
 心	bottom	_part.diandiandian.bottom
@@ -50,7 +54,6 @@
 月	bottom	uni2F49.bottom
 木	general	uni2F4A
 木	bottom	uni2F4A.bottom
-木	bottom2	uni2F4A.bottom2
 木	left	uni2F4A.left
 欠	right	_part.hengpiehengwandian
 止	general	uni2F4C
@@ -76,6 +79,7 @@
 疒	general	uni2F67
 皮	general	uni2F6A
 皮	right	uni2F6A.right
+皿	bottom	uni2F6B
 目	general	uni2F6C
 目	bottom	uni2F49
 目	left	uni2F6C.left
@@ -86,6 +90,8 @@
 示	general	uni2F70
 示	left	uni2EAD
 示	bottom	uni2F70
+禾	general	uni2F72
+禾	left	uni2F72.left
 穴	general	uni2F73
 穴	top	uni2F73.top
 立	general	uni2F74
@@ -95,7 +101,6 @@
 米	left	uni2F76.left
 糸	left	uni2F77.left
 糸	right	uni2F77.right
-糸	bottom	uni2F77.bottom
 缶	general	uni2F78
 网	top	uni2F47.top
 羊	general	uni2F7A
@@ -118,6 +123,7 @@
 行	righthalf	uni2F8F.righthalf
 衣	general	uni2F90
 衣	left	uni2F90.left
+見	general	uni2F92
 角	general	uni2F93
 角	left	uni2F93.left
 言	general	uni2F94
@@ -156,6 +162,7 @@
 馬	left	uni2FBA.left
 骨	general	uni2FBB
 骨	left	uni2FBB.left
+髟	general	uni2FBD
 魚	general	uni2FC2
 魚	left	uni2FC2.left
 鳥	general	uni2FC3
@@ -164,3 +171,4 @@
 齒	general	uni2FD2
 齒	left	uni2FD2.left
 龴	top	_part.uni9FB4
+龷	general	_part.uni9FB7
