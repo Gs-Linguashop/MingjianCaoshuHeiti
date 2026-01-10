@@ -53,6 +53,7 @@ if __name__ == "__main__":
 					item_uni = format(ord(item), 'X')
 					print(f'「...包含{item} {item_uni} 」；')
 			lines.append(f'{char}\t{decompositions[char]}')
+			print(f'「{char} {uni} 」拆字已添加！')
 	
 	with open("out/new_glyphs.txt", "w", encoding="utf-8") as f:
 		f.write("\n".join(lines))

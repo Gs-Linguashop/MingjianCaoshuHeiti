@@ -1,5 +1,6 @@
 ⺀	bottom	uni2E80.bottom
 刂	right	uni2E89
+㔾	general	uni2E8B
 ⺗	bottom	uni2E97
 灬	bottom	_part.diandiandian.bottom
 亠	top	uni2F07
@@ -27,11 +28,13 @@
 子	general	uni2F26
 子	left	uni2F26.left
 宀	top	uni2F27
+寸	general	uni2F28
 尢	general	uni2F2A
 尢	bottomleft	uni2F2A.bottomleft
 尸	general	uni2F1A
 山	general	uni2F2D
 山	left	uni2F2D.left
+己	general	uni2F30
 巾	general	uni2F31
 广	general	uni2F34
 弓	general	uni2F38
@@ -47,6 +50,8 @@
 支	right	uni2F40.right
 斤	general	uni2F44
 斤	right	uni2F44.right
+方	general	uni2F45
+方	left	uni2F45.left
 日	general	uni2F47
 日	top	uni2F47.top
 日	bottom	uni2F47.bottom
@@ -81,7 +86,8 @@
 玉	left	uni2F5F.left
 瓜	general	uni2F60
 田	general	uni2F65.alt
-田	left	uni2F65.alt
+田	left	uni2F65.alt2
+疋	left	uni2EC8
 疒	general	uni2F67
 皮	general	uni2F6A
 皮	right	uni2F6A.right
@@ -166,7 +172,7 @@
 風	general	uni2FB5
 風	bottomleft	uni2FB5.bottomleft
 食	general	uni2FB7
-食	left	uni2FC2.left
+食	left	uni2FB7.left
 馬	general	uni2FBA
 馬	left	uni2FBA.left
 骨	general	uni2FBB
@@ -180,4 +186,6 @@
 齒	general	uni2FD2
 齒	left	uni2FD2.left
 龴	top	_part.uni9FB4
+龶	general	_part.uni9FB6
 龷	general	_part.uni9FB7
+𠂉	general	_part.pieheng
