@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni4E29" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="213" y="197" type="curve"/>
+      <point x="255" y="118" type="line"/>
+      <point x="275" y="133" type="line"/>
+      <point x="642" y="207" type="line"/>
+      <point x="642" y="288" type="line"/>
+      <point x="328" y="226" type="line"/>
+      <point x="328" y="739" type="line"/>
+      <point x="248" y="739" type="line"/>
+      <point x="248" y="259" type="line" smooth="yes"/>
+      <point x="248" y="225"/>
+      <point x="239" y="211"/>
+    </contour>
+    <contour>
+      <point x="620" y="-69" type="line"/>
+      <point x="700" y="-69" type="line"/>
+      <point x="700" y="830" type="line"/>
+      <point x="620" y="830" type="line"/>
+    </contour>
+  </outline>
+</glyph>

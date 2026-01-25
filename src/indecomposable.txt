@@ -8,6 +8,7 @@
 人	left	uni2F08.left
 冂	general	uni2F0C
 冫	general	uni2F0E
+凵	general	uni2F10
 力	general	uni2F12
 匚	general	uni2F15
 匸	general	uni2F15
@@ -34,8 +35,11 @@
 尸	general	uni2F1A
 山	general	uni2F2D
 山	left	uni2F2D.left
+工	general	uni2F2F
+工	left	uni2F2F.left
 己	general	uni2F30
 巾	general	uni2F31
+幺	general	uni2F33
 广	general	uni2F34
 弓	general	uni2F38
 弓	left	uni2F38.left
@@ -85,6 +89,7 @@
 玉	general	uni2F5F
 玉	left	uni2F5F.left
 瓜	general	uni2F60
+瓦	general	uni2F61
 田	general	uni2F65.alt
 田	left	uni2F65.alt2
 疋	left	uni2EC8
@@ -145,6 +150,7 @@
 言	left	uni2F94.left
 豆	general	uni2F96
 豆	left	uni2F96.left
+豸	left	uni2F98.left
 貝	general	uni2F99
 貝	bottom	uni2F99.bottom
 貝	left	uni2F99.left
@@ -165,6 +171,8 @@
 金	left	uni2FA6.left
 門	general	uni2FA8
 阜	left	uni2FA9.left
+隹	general	uni2FAB
+隹	right	uni2FAB.right
 雨	top	uni2ED7
 革	general	uni2FB0
 革	left	uni2FB0.left
@@ -178,11 +186,15 @@
 骨	general	uni2FBB
 骨	left	uni2FBB.left
 髟	general	uni2FBD
+鬼	general	uni2FC1
 魚	general	uni2FC2
 魚	left	uni2FC2.left
 鳥	general	uni2FC3
 鹿	general	uni2FC5
 鹿	left	uni2FC5.left
+麥	general	uni2FC6
+麥	left	uni2FC6.left
+麻	general	uni2FC7
 齒	general	uni2FD2
 齒	left	uni2FD2.left
 龴	top	_part.uni9FB4

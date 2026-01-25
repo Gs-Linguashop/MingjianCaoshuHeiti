@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni4E2B" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="461" y="474" type="curve"/>
+      <point x="461" y="-71" type="line"/>
+      <point x="541" y="-71" type="line"/>
+      <point x="541" y="437" type="line"/>
+      <point x="681" y="558"/>
+      <point x="776" y="658"/>
+      <point x="863" y="764" type="curve"/>
+      <point x="795" y="812" type="line"/>
+      <point x="706" y="699"/>
+      <point x="597" y="586"/>
+    </contour>
+    <contour>
+      <point x="366" y="521" type="curve"/>
+      <point x="430" y="572" type="line"/>
+      <point x="372" y="640"/>
+      <point x="286" y="729"/>
+      <point x="201" y="809" type="curve"/>
+      <point x="142" y="754" type="line"/>
+      <point x="229" y="672"/>
+      <point x="311" y="589"/>
+    </contour>
+  </outline>
+</glyph>
