@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4EA4.alt" format="2">
+  <advance width="1000" height="1000"/>
+  <note>
+cid09708
+</note>
+  <outline>
+    <contour>
+      <point x="810" y="-78" type="curve" smooth="yes"/>
+      <point x="902" y="-78"/>
+      <point x="935" y="-29"/>
+      <point x="954" y="144" type="curve"/>
+      <point x="882" y="152" type="line"/>
+      <point x="871" y="14"/>
+      <point x="855" y="2"/>
+      <point x="812" y="2" type="curve" smooth="yes"/>
+      <point x="727" y="2"/>
+      <point x="644" y="59"/>
+      <point x="555" y="235" type="curve" smooth="yes"/>
+      <point x="467" y="410"/>
+      <point x="441" y="653"/>
+      <point x="441" y="837" type="curve"/>
+      <point x="360" y="837" type="line"/>
+      <point x="362" y="636"/>
+      <point x="389" y="377"/>
+      <point x="487" y="190" type="curve" smooth="yes"/>
+      <point x="589" y="-5"/>
+      <point x="692" y="-78"/>
+    </contour>
+    <contour>
+      <point x="84" y="5" type="curve"/>
+      <point x="138" y="-71" type="line"/>
+      <point x="436" y="33"/>
+      <point x="724" y="230"/>
+      <point x="875" y="465" type="curve"/>
+      <point x="799" y="504" type="line"/>
+      <point x="700" y="345"/>
+      <point x="457" y="117"/>
+    </contour>
+    <contour>
+      <point x="124" y="304" type="curve"/>
+      <point x="178" y="230" type="line"/>
+      <point x="363" y="294"/>
+      <point x="554" y="385"/>
+      <point x="700" y="507" type="curve"/>
+      <point x="641" y="563" type="line"/>
+      <point x="515" y="458"/>
+      <point x="336" y="368"/>
+    </contour>
+    <contour>
+      <point x="63" y="567" type="line"/>
+      <point x="947" y="642" type="line"/>
+      <point x="939" y="721" type="line"/>
+      <point x="56" y="648" type="line"/>
+    </contour>
+  </outline>
+</glyph>
