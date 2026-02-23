@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni4EE5" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="68" y="41" type="curve"/>
+      <point x="110" y="-26" type="line"/>
+      <point x="476" y="167" type="line"/>
+      <point x="440" y="238" type="line"/>
+      <point x="209" y="116" type="line"/>
+      <point x="209" y="750" type="line"/>
+      <point x="129" y="750" type="line"/>
+      <point x="129" y="139" type="line" smooth="yes"/>
+      <point x="129" y="88"/>
+      <point x="103" y="58"/>
+    </contour>
+    <contour>
+      <point x="496" y="280" type="curve"/>
+      <point x="576" y="300" type="line"/>
+      <point x="562" y="390"/>
+      <point x="516" y="547"/>
+      <point x="475" y="642" type="curve"/>
+      <point x="400" y="621" type="line"/>
+      <point x="440" y="527"/>
+      <point x="484" y="369"/>
+    </contour>
+    <contour>
+      <point x="736" y="6" type="line"/>
+      <point x="816" y="6" type="line"/>
+      <point x="816" y="803" type="line"/>
+      <point x="736" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="944" y="44" type="line"/>
+      <point x="608" y="44" type="line"/>
+      <point x="608" y="-36" type="line"/>
+      <point x="944" y="-36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

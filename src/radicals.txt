@@ -23,6 +23,7 @@
 囗	general	uni2F1E
 土	general	uni2F1F
 土	left	uni2F1F.left
+士	general	uni2F20
 夂	general	uni2F21
 夂	top	uni2F21.top
 大	general	uni2F24
@@ -51,6 +52,7 @@
 心	general	uni2F3C
 心	bottom	_part.diandiandian.bottom
 心	left	uni2F3C.left
+戈	general	uni2F3D
 手	general	uni2F3F
 手	left	uni2E98
 支	general	uni2F40
@@ -103,6 +105,8 @@
 皿	bottom	uni2F6B
 目	general	uni2F6C
 目	left	uni2F6C.left
+矛	general	uni2F6D
+矛	left	uni2F6D.left
 矢	general	uni2F6E
 矢	left	uni2F9B.left
 石	general	uni2F6F
@@ -288,6 +292,13 @@
 亲	general	_part.uni4EB2
 亶	general	_part.uni4EB6
 今	general	_part.uni4ECA
+介	general	_part.uni4ECB
+付	general	_part.uni4ED8
+代	general	_part.uni4EE3
+令	general	_part.uni4EE4
+以	general	_part.uni4EE5
+侖	general	_part.uni4F96
+倉	general	_part.uni5009
 兌	general	_part.uni514C
 光	left	_part.uni5149.left
 內	general	_part.uni5167
@@ -338,6 +349,7 @@
 寧	general	_part.uni5BE7
 將	general	_part.uni5C07
 專	general	_part.uni5C08
+尹	general	_part.uni5C39
 尺	general	_part.uni5C3A
 巠	general	_part.uni5DE0
 巠	left	_part.uni5DE0.left
@@ -352,6 +364,7 @@
 彔	general	_part.uni5F54
 彖	general	_part.uni5F56
 彥	general	_part.uni5F65
+從	general	_part.uni5F9E
 必	general	_part.uni5FC5
 忩	general	_part.uni5FE9
 思	general	_part.uni601D
@@ -364,6 +377,7 @@
 旦	general	_part.uni65E6
 昜	general	_part.uni661C
 最	general	_part.uni6700
+會	general	_part.uni6703
 有	general	_part.uni6709
 朩	general	uni2F4A.bottom
 東	general	_part.uni6771
