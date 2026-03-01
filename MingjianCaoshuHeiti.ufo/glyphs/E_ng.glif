@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="701"/>
+  <unicode hex="014A"/>
+  <outline>
+    <component base="N"/>
+    <contour>
+      <point x="403" y="-151" type="curve"/>
+      <point x="403" y="-231" type="line"/>
+      <point x="558" y="-228"/>
+      <point x="632" y="-139"/>
+      <point x="632" y="0" type="curve"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="-105"/>
+      <point x="506" y="-152"/>
+    </contour>
+  </outline>
+</glyph>

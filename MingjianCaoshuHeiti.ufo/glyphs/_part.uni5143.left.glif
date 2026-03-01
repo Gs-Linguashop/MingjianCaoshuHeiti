@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni5143.left" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="33" y="149" type="curve"/>
+      <point x="95" y="88" type="line"/>
+      <point x="221" y="215"/>
+      <point x="356" y="396"/>
+      <point x="451" y="544" type="curve"/>
+      <point x="391" y="586" type="line"/>
+      <point x="373" y="571" type="line"/>
+      <point x="72" y="571" type="line"/>
+      <point x="72" y="491" type="line"/>
+      <point x="324" y="491" type="line"/>
+      <point x="266" y="399"/>
+      <point x="147" y="257"/>
+    </contour>
+    <contour>
+      <point x="255" y="-8" type="line"/>
+      <point x="335" y="-8" type="line"/>
+      <point x="335" y="386" type="line"/>
+      <point x="255" y="386" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="112" type="line"/>
+      <point x="210" y="-8" type="line"/>
+      <point x="251" y="-78" type="line"/>
+      <point x="459" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="775" type="line"/>
+      <point x="120" y="695" type="line"/>
+      <point x="396" y="695" type="line"/>
+      <point x="396" y="775" type="line"/>
+    </contour>
+  </outline>
+</glyph>
