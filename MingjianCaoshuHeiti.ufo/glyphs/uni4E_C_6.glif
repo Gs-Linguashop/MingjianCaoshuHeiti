@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4EC6" format="2">
+  <advance width="1000"/>
+  <unicode hex="4EC6"/>
+  <outline>
+    <contour>
+      <point x="187" y="-64" type="line"/>
+      <point x="268" y="-64" type="line"/>
+      <point x="268" y="593" type="line"/>
+      <point x="187" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="23" y="425" type="curve"/>
+      <point x="84" y="378" type="line"/>
+      <point x="210" y="488"/>
+      <point x="326" y="643"/>
+      <point x="391" y="788" type="curve"/>
+      <point x="309" y="816" type="line"/>
+      <point x="244" y="669"/>
+      <point x="136" y="519"/>
+    </contour>
+    <contour>
+      <point x="539" y="-71" type="line"/>
+      <point x="620" y="-71" type="line"/>
+      <point x="620" y="817" type="line"/>
+      <point x="539" y="817" type="line"/>
+    </contour>
+    <contour>
+      <point x="927" y="298" type="curve"/>
+      <point x="964" y="371" type="line"/>
+      <point x="869" y="424"/>
+      <point x="737" y="487"/>
+      <point x="608" y="533" type="curve"/>
+      <point x="574" y="463" type="line"/>
+      <point x="702" y="415"/>
+      <point x="838" y="348"/>
+    </contour>
+  </outline>
+</glyph>

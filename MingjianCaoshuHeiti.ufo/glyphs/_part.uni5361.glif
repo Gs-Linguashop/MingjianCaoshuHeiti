@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni5361" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="443" y="610" type="line"/>
+      <point x="806" y="610" type="line"/>
+      <point x="806" y="690" type="line"/>
+      <point x="443" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="394" type="line"/>
+      <point x="944" y="394" type="line"/>
+      <point x="944" y="474" type="line"/>
+      <point x="56" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="828" type="line"/>
+      <point x="403" y="-73" type="line"/>
+      <point x="483" y="-73" type="line"/>
+      <point x="483" y="828" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="105" type="curve"/>
+      <point x="803" y="176" type="line"/>
+      <point x="715" y="226"/>
+      <point x="593" y="285"/>
+      <point x="472" y="330" type="curve"/>
+      <point x="435" y="261" type="line"/>
+      <point x="553" y="216"/>
+      <point x="681" y="152"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2F28.right.alt" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="459" y="507" type="line"/>
+      <point x="962" y="507" type="line"/>
+      <point x="962" y="587" type="line"/>
+      <point x="459" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="-74" type="curve" smooth="yes"/>
+      <point x="799" y="-74"/>
+      <point x="842" y="-2"/>
+      <point x="842" y="119" type="curve" smooth="yes"/>
+      <point x="842" y="835" type="line"/>
+      <point x="762" y="835" type="line"/>
+      <point x="762" y="152" type="line" smooth="yes"/>
+      <point x="762" y="66"/>
+      <point x="757" y="6"/>
+      <point x="696" y="6" type="curve" smooth="yes"/>
+      <point x="648" y="6"/>
+      <point x="626" y="38"/>
+      <point x="626" y="88" type="curve" smooth="yes"/>
+      <point x="626" y="186"/>
+      <point x="699" y="197"/>
+      <point x="789" y="161" type="curve"/>
+      <point x="796" y="243" type="line"/>
+      <point x="654" y="290"/>
+      <point x="546" y="235"/>
+      <point x="546" y="88" type="curve" smooth="yes"/>
+      <point x="546" y="-21"/>
+      <point x="612" y="-74"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-04-04 04:01:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>
