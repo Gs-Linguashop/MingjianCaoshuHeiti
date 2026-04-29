@@ -1,3 +1,5 @@
+import re
+
 def read_chaizi():
 	result = {}
 	for filename in ['src-external/chaizi-ft.txt', 'src-external/chaizi-jt.txt']:
@@ -52,7 +54,35 @@ if __name__ == "__main__":
 					if item == char: continue
 					item_uni = format(ord(item), 'X')
 					print(f'「...包含{item} {item_uni} 」；')
-			lines.append(f'{char}\t{decompositions[char]}')
+			decomp = decompositions[char].replace('⿰絲', '⿰糸').replace('⿰丝', '⿰糸')
+			decomp = re.sub(r'⿰辵(.)', r'⿱\1辶', decomp)
+			decomp = re.sub(r'⿰(.)火', r'⿱\1灬', decomp)
+			decomp = re.sub(r'⿰(.)邑', r'⿰\1阝', decomp)
+			decomp = re.sub(r'⿰(.)心', r'⿱\1心', decomp)
+			decomp = re.sub(r'⿰(.)食', r'⿱\1食', decomp)
+			decomp = re.sub(r'⿰(.)丝', r'⿱\1糸', decomp)
+			decomp = re.sub(r'⿰(.)刀', r'⿰\1刂', decomp)
+			decomp = re.sub(r'⿰(.)攴', r'⿰\1攵', decomp)
+			decomp = decomp.replace('⿰病', '⿸疒')
+			decomp = decomp.replace('⿰草', '⿱艸')
+			decomp = decomp.replace('⿰蟲', '⿰虫')
+			decomp = decomp.replace('⿰雨', '⿱雨')
+			decomp = decomp.replace('⿰風', '⿺風')
+			decomp = decomp.replace('⿰竹', '⿱竹')
+			decomp = decomp.replace('⿰髟', '⿱髟')
+			decomp = decomp.replace('⿰冰', '⿰冫')
+			decomp = decomp.replace('⿰肉', '⿰月')
+			decomp = decomp.replace('⿰門', '⿱門')
+			decomp = decomp.replace('⿰门', '⿱门')
+			decomp = decomp.replace('⿰皿', '⿱皿')
+			decomp = decomp.replace('⿰黑', '⿴黑')
+			decomp = decomp.replace('⿰虎', '⿱虍')
+			decomp = decomp.replace('⿰囗', '⿴囗')
+			decomp = decomp.replace('⿰行', '⿴行')
+			decomp = decomp.replace('⿰穴', '⿱穴')
+			decomp = decomp.replace('⿰阜', '⿰阝')
+			decomp = decomp.replace('⿰饣', '⿰食')
+			lines.append(f'{char}\t{decomp}')
 			print(f'「{char} {uni} 」拆字已添加！')
 	
 	with open("out/new_glyphs.txt", "w", encoding="utf-8") as f:
