@@ -64,23 +64,23 @@
     </contour>
     <contour>
       <point x="419" y="-18" type="curve"/>
-      <point x="489" y="-69" type="line"/>
+      <point x="488" y="-69" type="line"/>
       <point x="709" y="140"/>
-      <point x="751" y="515"/>
-      <point x="748" y="814" type="curve"/>
-      <point x="666" y="814" type="line"/>
-      <point x="666" y="522"/>
-      <point x="631" y="178"/>
+      <point x="752" y="517"/>
+      <point x="749" y="814" type="curve"/>
+      <point x="667" y="814" type="line"/>
+      <point x="666" y="523"/>
+      <point x="630" y="178"/>
     </contour>
     <contour>
-      <point x="898" y="-69" type="curve"/>
-      <point x="970" y="-21" type="line"/>
+      <point x="899" y="-69" type="curve"/>
+      <point x="971" y="-21" type="line"/>
       <point x="900" y="118"/>
       <point x="803" y="270"/>
-      <point x="708" y="403" type="curve"/>
-      <point x="645" y="352" type="line"/>
-      <point x="732" y="228"/>
-      <point x="829" y="72"/>
+      <point x="706" y="403" type="curve"/>
+      <point x="644" y="352" type="line"/>
+      <point x="731" y="228"/>
+      <point x="830" y="72"/>
     </contour>
   </outline>
 </glyph>

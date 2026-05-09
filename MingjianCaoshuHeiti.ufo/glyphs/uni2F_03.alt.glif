@@ -3,14 +3,20 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="122" y="769" type="curve"/>
-      <point x="136" y="692" type="line"/>
-      <point x="377" y="698"/>
-      <point x="661" y="723"/>
-      <point x="855" y="755" type="curve"/>
-      <point x="825" y="826" type="line"/>
-      <point x="651" y="797"/>
-      <point x="365" y="772"/>
+      <point x="122" y="771" type="curve"/>
+      <point x="136" y="690" type="line"/>
+      <point x="377" y="696"/>
+      <point x="663" y="720"/>
+      <point x="855" y="751" type="curve"/>
+      <point x="825" y="828" type="line"/>
+      <point x="649" y="800"/>
+      <point x="365" y="774"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-09 03:54:51 +0000</string>
+    </dict>
+  </lib>
 </glyph>

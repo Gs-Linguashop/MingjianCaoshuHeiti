@@ -82,6 +82,11 @@ if __name__ == "__main__":
 			decomp = decomp.replace('⿰穴', '⿱穴')
 			decomp = decomp.replace('⿰阜', '⿰阝')
 			decomp = decomp.replace('⿰饣', '⿰食')
+			decomp = decomp.replace('⿰气', '⿱气')
+			decomp = decomp.replace('⿰鹿', '⿸鹿')
+			decomp = decomp.replace('⿰广', '⿸广')
+			decomp = decomp.replace('⿰尸', '⿸尸')
+			decomp = decomp.replace('⿰宀', '⿱宀')
 			lines.append(f'{char}\t{decomp}')
 			print(f'「{char} {uni} 」拆字已添加！')
 	
