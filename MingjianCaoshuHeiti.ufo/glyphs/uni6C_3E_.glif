@@ -2,6 +2,7 @@
 <glyph name="uni6C3E" format="2">
   <advance width="1000"/>
   <unicode hex="6C3E"/>
+  <unicode hex="6C5C"/>
   <outline>
     <contour>
       <point x="114" y="-32" type="curve"/>
@@ -21,12 +22,12 @@
     </contour>
     <contour>
       <point x="206" y="597" type="curve"/>
-      <point x="256" y="663" type="line"/>
-      <point x="219" y="690"/>
-      <point x="149" y="732"/>
-      <point x="97" y="759" type="curve"/>
+      <point x="255" y="664" type="line"/>
+      <point x="217" y="691"/>
+      <point x="145" y="732"/>
+      <point x="94" y="758" type="curve"/>
       <point x="48" y="696" type="line"/>
-      <point x="101" y="667"/>
+      <point x="100" y="668"/>
       <point x="171" y="624"/>
     </contour>
     <contour>
@@ -70,4 +71,10 @@
       <point x="669" y="355"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-05-19 01:44:26 +0000</string>
+    </dict>
+  </lib>
 </glyph>
