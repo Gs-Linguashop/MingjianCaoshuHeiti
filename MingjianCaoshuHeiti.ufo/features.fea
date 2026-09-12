@@ -48,9 +48,10 @@
 	markClass [uni0326] <anchor 116 0> @mark_bottom;
 	markClass [uni0327] <anchor 150 0> @mark_bottom;
 	markClass [uni0328] <anchor 150 0> @mark_ogonek;
-@anchor_bottom = [uni0326 uni0327];
 @anchor_ogonek = [uni0328];
-@anchor_top = [uni0308 uni0307 gravecomb acutecomb uni030B uni030C.alt uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
+@anchor_top = [uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0313];
+@anchor_topright = [uni030C.alt];
+@anchor_bottom = [uni0326 uni0327];
 ### prefix:-1:Languagesystems ###
 ### open prefix 'Languagesystems' ###
 languagesystem DFLT dflt;

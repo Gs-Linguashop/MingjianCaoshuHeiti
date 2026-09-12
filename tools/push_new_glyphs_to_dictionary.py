@@ -1,4 +1,5 @@
 import os
+import re
 
 # Input files
 new_file = "out/new_glyphs.txt"
@@ -27,8 +28,9 @@ with open(new_file, "r", encoding="utf-8") as f:
 			continue
 		char, structure = line.split("\t", 1)
 		uni = get_unicode_hex(char)
-		# Format: char<TAB>Unicode<TAB>字<TAB>推得<TAB>structure
-		formatted = f"{char}\t{uni}\t字\t推得\t{structure}"
+		category = "简体" if re.search(r"同「.」", structure.split("\t", 1)[0]) else "推得"
+		# Format: char<TAB>Unicode<TAB>字<TAB>category<TAB>structure
+		formatted = f"{char}\t{uni}\t字\t{category}\t{structure}"
 		new_entries.append(formatted)
 
 # --- Merge and deduplicate ---

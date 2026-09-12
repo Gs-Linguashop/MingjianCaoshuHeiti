@@ -8,10 +8,10 @@
       <point x="274" y="600" type="line"/>
       <point x="918" y="600" type="line"/>
       <point x="918" y="680" type="line"/>
-      <point x="747" y="680" type="line"/>
-      <point x="780" y="720"/>
-      <point x="815" y="771"/>
-      <point x="846" y="818" type="curve"/>
+      <point x="760" y="680" type="line"/>
+      <point x="789" y="716"/>
+      <point x="819" y="761"/>
+      <point x="846" y="804" type="curve"/>
       <point x="763" y="840" type="line"/>
       <point x="739" y="791"/>
       <point x="697" y="726"/>
@@ -19,14 +19,14 @@
       <point x="274" y="680" type="line"/>
     </contour>
     <contour>
-      <point x="466" y="678" type="curve"/>
+      <point x="466" y="663" type="curve"/>
       <point x="544" y="696" type="line"/>
-      <point x="526" y="739"/>
+      <point x="524" y="737"/>
       <point x="482" y="795"/>
       <point x="441" y="838" type="curve"/>
-      <point x="367" y="815" type="line"/>
-      <point x="406" y="773"/>
-      <point x="448" y="719"/>
+      <point x="367" y="800" type="line"/>
+      <point x="406" y="759"/>
+      <point x="446" y="703"/>
     </contour>
     <contour>
       <point x="104" y="195" type="line"/>

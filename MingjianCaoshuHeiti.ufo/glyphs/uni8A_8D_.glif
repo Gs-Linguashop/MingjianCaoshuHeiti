@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8A8D" format="2">
+  <advance width="1000"/>
+  <unicode hex="8A8D"/>
+  <unicode hex="8BA4"/>
+  <outline>
+    <contour>
+      <point x="98" y="745" type="line"/>
+      <point x="98" y="-27" type="line"/>
+      <point x="178" y="-27" type="line"/>
+      <point x="178" y="745" type="line"/>
+    </contour>
+    <component base="uni4E11" xScale="0.8782" xOffset="158" identifier="27FAAFB3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>27FAAFB3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -82,7 +82,7 @@
       <point x="532" y="420"/>
     </contour>
     <contour>
-      <point x="472" y="-18" type="curve"/>
+      <point x="471" y="-19" type="curve"/>
       <point x="530" y="-80" type="line"/>
       <point x="704" y="9"/>
       <point x="860" y="177"/>
@@ -93,17 +93,17 @@
       <point x="581" y="403" type="line"/>
       <point x="819" y="403" type="line"/>
       <point x="768" y="210"/>
-      <point x="636" y="63"/>
+      <point x="635" y="62"/>
     </contour>
     <contour>
-      <point x="882" y="-77" type="curve"/>
-      <point x="950" y="-22" type="line"/>
-      <point x="811" y="112"/>
-      <point x="698" y="203"/>
+      <point x="882" y="-81" type="curve"/>
+      <point x="950" y="-27" type="line"/>
+      <point x="818" y="97"/>
+      <point x="698" y="202"/>
       <point x="569" y="275" type="curve"/>
       <point x="515" y="221" type="line"/>
-      <point x="642" y="146"/>
-      <point x="750" y="58"/>
+      <point x="642" y="144"/>
+      <point x="757" y="44"/>
     </contour>
   </outline>
 </glyph>

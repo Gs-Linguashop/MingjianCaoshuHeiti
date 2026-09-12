@@ -77,16 +77,16 @@
       <point x="401" y="-94"/>
     </contour>
     <contour>
-      <point x="61" y="76" type="line"/>
-      <point x="955" y="76" type="line"/>
-      <point x="955" y="155" type="line"/>
-      <point x="61" y="155" type="line"/>
+      <point x="61" y="60" type="line"/>
+      <point x="955" y="60" type="line"/>
+      <point x="955" y="138" type="line"/>
+      <point x="61" y="138" type="line"/>
     </contour>
     <contour>
-      <point x="124" y="208" type="line"/>
-      <point x="892" y="208" type="line"/>
-      <point x="892" y="286" type="line"/>
-      <point x="124" y="286" type="line"/>
+      <point x="124" y="200" type="line"/>
+      <point x="892" y="200" type="line"/>
+      <point x="892" y="278" type="line"/>
+      <point x="124" y="278" type="line"/>
     </contour>
     <contour>
       <point x="125" y="402" type="curve"/>
