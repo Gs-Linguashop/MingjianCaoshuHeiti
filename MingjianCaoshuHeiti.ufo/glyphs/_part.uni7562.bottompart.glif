@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni7562.bottompart" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="57" y="423" type="line"/>
+      <point x="943" y="423" type="line"/>
+      <point x="943" y="503" type="line"/>
+      <point x="57" y="503" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="262" type="line"/>
+      <point x="843" y="262" type="line"/>
+      <point x="843" y="342" type="line"/>
+      <point x="157" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="100" type="line"/>
+      <point x="883" y="100" type="line"/>
+      <point x="883" y="180" type="line"/>
+      <point x="117" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="460" type="line"/>
+      <point x="460" y="-77" type="line"/>
+      <point x="540" y="-77" type="line"/>
+      <point x="540" y="460" type="line"/>
+    </contour>
+  </outline>
+</glyph>

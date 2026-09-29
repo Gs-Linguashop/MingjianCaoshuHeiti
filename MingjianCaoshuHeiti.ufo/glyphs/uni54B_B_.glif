@@ -4,16 +4,16 @@
   <unicode hex="54BB"/>
   <outline>
     <contour>
-      <point x="62" y="153" type="line"/>
-      <point x="138" y="153" type="line"/>
-      <point x="138" y="714" type="line"/>
-      <point x="62" y="714" type="line"/>
+      <point x="62" y="162" type="line"/>
+      <point x="138" y="162" type="line"/>
+      <point x="138" y="700" type="line"/>
+      <point x="62" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="199" y="235" type="line"/>
-      <point x="276" y="235" type="line"/>
-      <point x="276" y="714" type="line"/>
-      <point x="199" y="714" type="line"/>
+      <point x="199" y="241" type="line"/>
+      <point x="276" y="241" type="line"/>
+      <point x="276" y="700" type="line"/>
+      <point x="199" y="700" type="line"/>
     </contour>
     <contour>
       <point x="654" y="-57" type="curve" smooth="yes"/>

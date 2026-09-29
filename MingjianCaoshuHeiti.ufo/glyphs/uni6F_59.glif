@@ -6,19 +6,19 @@
   <unicode hex="6CA9"/>
   <outline>
     <contour>
-      <point x="115" y="-25" type="curve"/>
-      <point x="196" y="-17" type="line"/>
-      <point x="147" y="114"/>
-      <point x="136" y="208"/>
-      <point x="164" y="287" type="curve" smooth="yes"/>
-      <point x="197" y="377"/>
-      <point x="201" y="446"/>
-      <point x="151" y="521" type="curve"/>
+      <point x="114" y="-25" type="curve"/>
+      <point x="196" y="-16" type="line"/>
+      <point x="147" y="115"/>
+      <point x="139" y="202"/>
+      <point x="167" y="281" type="curve" smooth="yes"/>
+      <point x="200" y="371"/>
+      <point x="201" y="447"/>
+      <point x="151" y="522" type="curve"/>
       <point x="72" y="503" type="line"/>
       <point x="118" y="422"/>
-      <point x="120" y="362"/>
-      <point x="91" y="293" type="curve" smooth="yes"/>
-      <point x="58" y="217"/>
+      <point x="118" y="368"/>
+      <point x="89" y="299" type="curve" smooth="yes"/>
+      <point x="57" y="223"/>
       <point x="64" y="114"/>
     </contour>
     <contour>

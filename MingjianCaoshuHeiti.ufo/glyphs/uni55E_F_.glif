@@ -6,14 +6,14 @@
     <contour>
       <point x="57" y="179" type="line"/>
       <point x="134" y="179" type="line"/>
-      <point x="134" y="687" type="line"/>
-      <point x="57" y="687" type="line"/>
+      <point x="134" y="695" type="line"/>
+      <point x="57" y="695" type="line"/>
     </contour>
     <contour>
-      <point x="191" y="253" type="line"/>
-      <point x="267" y="253" type="line"/>
-      <point x="267" y="687" type="line"/>
-      <point x="191" y="687" type="line"/>
+      <point x="191" y="255" type="line"/>
+      <point x="267" y="255" type="line"/>
+      <point x="267" y="695" type="line"/>
+      <point x="191" y="695" type="line"/>
     </contour>
     <contour>
       <point x="824" y="178" type="curve" smooth="yes"/>
