@@ -71,13 +71,13 @@
     </contour>
     <contour>
       <point x="933" y="133" type="curve"/>
-      <point x="953" y="214" type="line"/>
+      <point x="953" y="213" type="line"/>
       <point x="737" y="234"/>
       <point x="449" y="235"/>
       <point x="69" y="212" type="curve"/>
-      <point x="69" y="138" type="line"/>
+      <point x="69" y="137" type="line"/>
       <point x="445" y="158"/>
-      <point x="733" y="152"/>
+      <point x="733" y="153"/>
     </contour>
   </outline>
 </glyph>

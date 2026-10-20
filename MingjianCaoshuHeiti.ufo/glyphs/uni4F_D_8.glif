@@ -79,13 +79,13 @@
     </contour>
     <contour>
       <point x="970" y="178" type="curve"/>
-      <point x="986" y="258" type="line"/>
-      <point x="810" y="281"/>
-      <point x="575" y="282"/>
-      <point x="265" y="257" type="curve"/>
-      <point x="265" y="182" type="line"/>
+      <point x="986" y="259" type="line"/>
+      <point x="810" y="280"/>
+      <point x="575" y="281"/>
+      <point x="265" y="258" type="curve"/>
+      <point x="265" y="183" type="line"/>
       <point x="571" y="204"/>
-      <point x="807" y="199"/>
+      <point x="807" y="198"/>
     </contour>
   </outline>
 </glyph>

@@ -122,14 +122,14 @@
       <point x="620" y="-75"/>
     </contour>
     <contour>
-      <point x="981" y="183" type="curve"/>
+      <point x="981" y="184" type="curve"/>
       <point x="993" y="264" type="line"/>
-      <point x="862" y="285"/>
-      <point x="687" y="286"/>
+      <point x="862" y="284"/>
+      <point x="687" y="285"/>
       <point x="457" y="263" type="curve"/>
-      <point x="457" y="187" type="line"/>
-      <point x="685" y="208"/>
-      <point x="860" y="203"/>
+      <point x="457" y="188" type="line"/>
+      <point x="685" y="207"/>
+      <point x="860" y="202"/>
     </contour>
   </outline>
 </glyph>

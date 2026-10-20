@@ -51,14 +51,14 @@
     </contour>
     <contour>
       <point x="457" y="-73" type="curve" smooth="yes"/>
-      <point x="544" y="-73"/>
-      <point x="594" y="-39"/>
+      <point x="545" y="-73"/>
+      <point x="594" y="-37"/>
       <point x="594" y="111" type="curve" smooth="yes"/>
-      <point x="594" y="207"/>
-      <point x="561" y="280"/>
-      <point x="498" y="346" type="curve"/>
-      <point x="430" y="306" type="line"/>
-      <point x="486" y="239"/>
+      <point x="594" y="208"/>
+      <point x="561" y="282"/>
+      <point x="498" y="348" type="curve"/>
+      <point x="430" y="305" type="line"/>
+      <point x="486" y="238"/>
       <point x="513" y="180"/>
       <point x="513" y="111" type="curve" smooth="yes"/>
       <point x="513" y="42"/>

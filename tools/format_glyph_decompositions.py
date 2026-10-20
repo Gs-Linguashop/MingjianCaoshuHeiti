@@ -27,19 +27,12 @@ def read_GB_glyph_map():
 			d[parts[0]] = parts[1]
 	return map, d
 
-if __name__ == "__main__":
-	import sys
-	if len(sys.argv) != 2:
-		print("输入错误！")
-		sys.exit(1)
-
-	chars = sys.argv[1]
-	decompositions = read_chaizi()
-	GB_glyph_map, GB_glyph_dict = read_GB_glyph_map()
-
+def format_decompositions(chars, decompositions, GB_glyph_map, GB_glyph_dict):
 	lines = []
+	alias_targets = set()
 	for char in chars:
 		uni = format(ord(char), 'X')
+		included = []
 		if char not in decompositions:
 			print(f'「{char} {uni} 」拆字未知，请手动添加！')
 		else:
@@ -49,11 +42,13 @@ if __name__ == "__main__":
 				char_to_use_uni = format(ord(GB_glyph_map[char]), 'X')
 				print(f'「{char} {uni} 」请使用「{GB_glyph_map[char]} {char_to_use_uni} 」字形。')
 			elif len(GB_glyph_dict[char]) > 1:
-				print(f'「{char} {uni} 」字形包含以下字码，请手动添加！')
+				print(f'「{char} {uni} 」字形包含以下字码，将添加同字标记！')
 				for item in GB_glyph_dict[char]:
 					if item == char: continue
 					item_uni = format(ord(item), 'X')
 					print(f'「...包含{item} {item_uni} 」；')
+					included.append(item)
+					alias_targets.add(item)
 			decomp = decompositions[char].replace('⿰絲', '⿰糸').replace('⿰丝', '⿰糸')
 			decomp = re.sub(r'⿰辵(.)', r'⿱\1辶', decomp)
 			decomp = re.sub(r'⿰(.)火', r'⿱\1灬', decomp)
@@ -87,9 +82,25 @@ if __name__ == "__main__":
 			decomp = decomp.replace('⿰广', '⿸广')
 			decomp = decomp.replace('⿰尸', '⿸尸')
 			decomp = decomp.replace('⿰宀', '⿱宀')
-			lines.append(f'{char}\t{decomp}')
+			lines.append((char, decomp))
+			lines.extend((item, f'同「{char}」') for item in included)
 			print(f'「{char} {uni} 」拆字已添加！')
-	
+
+	# Wait until every character has been processed: the explicit decomposition
+	# can occur either before or after the canonical glyph that includes it.
+	return [('# ' if char in alias_targets and not definition.startswith('同「') else '')
+			+ f'{char}\t{definition}' for char, definition in lines]
+
+
+if __name__ == "__main__":
+	import sys
+	if len(sys.argv) != 2:
+		print("输入错误！")
+		sys.exit(1)
+
+	decompositions = read_chaizi()
+	GB_glyph_map, GB_glyph_dict = read_GB_glyph_map()
+	lines = format_decompositions(sys.argv[1], decompositions, GB_glyph_map, GB_glyph_dict)
 	with open("out/new_glyphs.txt", "w", encoding="utf-8") as f:
 		f.write("\n".join(lines))
 	print('运行完成！新字及结构以添加至临时文档。')

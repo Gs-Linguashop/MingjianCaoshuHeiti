@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.uni5929.alt" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="113" y="700" type="line"/>
+      <point x="887" y="700" type="line"/>
+      <point x="887" y="780" type="line"/>
+      <point x="113" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="738" type="curve"/>
+      <point x="470" y="738" type="line"/>
+      <point x="470" y="391"/>
+      <point x="434" y="161"/>
+      <point x="51" y="-7" type="curve"/>
+      <point x="102" y="-72" type="line"/>
+      <point x="497" y="105"/>
+      <point x="550" y="365"/>
+    </contour>
+    <contour>
+      <point x="500" y="391" type="curve"/>
+      <point x="442" y="334" type="line"/>
+      <point x="592" y="214"/>
+      <point x="773" y="51"/>
+      <point x="895" y="-74" type="curve"/>
+      <point x="956" y="-20" type="line"/>
+      <point x="834" y="105"/>
+      <point x="655" y="268"/>
+    </contour>
+    <contour>
+      <point x="65" y="385" type="line"/>
+      <point x="935" y="385" type="line"/>
+      <point x="935" y="465" type="line"/>
+      <point x="65" y="465" type="line"/>
+    </contour>
+  </outline>
+</glyph>

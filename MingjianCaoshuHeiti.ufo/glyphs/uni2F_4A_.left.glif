@@ -3,20 +3,20 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="73" y="617" type="line"/>
-      <point x="73" y="537" type="line"/>
-      <point x="491" y="537" type="line"/>
-      <point x="491" y="617" type="line"/>
+      <point x="73" y="627" type="line"/>
+      <point x="73" y="547" type="line"/>
+      <point x="491" y="547" type="line"/>
+      <point x="491" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="51" y="211" type="line"/>
-      <point x="112" y="168" type="line"/>
-      <point x="129" y="188" type="line"/>
-      <point x="496" y="287" type="line"/>
-      <point x="476" y="363" type="line"/>
-      <point x="182" y="285" type="line"/>
-      <point x="309" y="542" type="line"/>
-      <point x="243" y="573" type="line"/>
+      <point x="51" y="216" type="line"/>
+      <point x="112" y="173" type="line"/>
+      <point x="129" y="193" type="line"/>
+      <point x="496" y="292" type="line"/>
+      <point x="476" y="368" type="line"/>
+      <point x="182" y="290" type="line"/>
+      <point x="309" y="552" type="line"/>
+      <point x="243" y="583" type="line"/>
     </contour>
     <contour>
       <point x="260" y="-72" type="curve" smooth="yes"/>

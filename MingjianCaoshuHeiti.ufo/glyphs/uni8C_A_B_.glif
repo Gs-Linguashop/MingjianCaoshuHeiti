@@ -5,66 +5,72 @@
   <unicode hex="8D2F"/>
   <outline>
     <contour>
-      <point x="82" y="627" type="line"/>
-      <point x="82" y="547" type="line"/>
-      <point x="918" y="547" type="line"/>
-      <point x="918" y="627" type="line"/>
+      <point x="77" y="547" type="line"/>
+      <point x="923" y="547" type="line"/>
+      <point x="923" y="627" type="line"/>
+      <point x="77" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="222" y="408" type="curve"/>
-      <point x="297" y="443" type="line"/>
-      <point x="281" y="534"/>
-      <point x="240" y="662"/>
-      <point x="202" y="758" type="curve"/>
-      <point x="129" y="730" type="line"/>
-      <point x="163" y="637"/>
-      <point x="202" y="499"/>
+      <point x="215" y="405" type="curve"/>
+      <point x="295" y="432" type="line"/>
+      <point x="275" y="525"/>
+      <point x="234" y="659"/>
+      <point x="197" y="758" type="curve"/>
+      <point x="120" y="732" type="line"/>
+      <point x="155" y="638"/>
+      <point x="194" y="498"/>
     </contour>
     <contour>
-      <point x="473" y="452" type="curve"/>
-      <point x="556" y="477" type="line"/>
-      <point x="544" y="578"/>
-      <point x="511" y="709"/>
-      <point x="478" y="820" type="curve"/>
-      <point x="398" y="798" type="line"/>
-      <point x="429" y="689"/>
-      <point x="460" y="552"/>
+      <point x="471" y="450" type="curve"/>
+      <point x="556" y="472" type="line"/>
+      <point x="543" y="574"/>
+      <point x="511" y="707"/>
+      <point x="476" y="819" type="curve"/>
+      <point x="395" y="800" type="line"/>
+      <point x="427" y="690"/>
+      <point x="458" y="553"/>
     </contour>
     <contour>
-      <point x="682" y="425" type="curve"/>
-      <point x="757" y="403" type="line"/>
-      <point x="796" y="502"/>
-      <point x="841" y="650"/>
-      <point x="872" y="765" type="curve"/>
-      <point x="784" y="793" type="line"/>
-      <point x="760" y="678"/>
-      <point x="719" y="532"/>
+      <point x="687" y="421" type="curve"/>
+      <point x="762" y="399" type="line"/>
+      <point x="803" y="505"/>
+      <point x="849" y="649"/>
+      <point x="880" y="766" type="curve"/>
+      <point x="791" y="789" type="line"/>
+      <point x="766" y="672"/>
+      <point x="725" y="525"/>
     </contour>
     <contour>
-      <point x="53" y="-7" type="curve"/>
-      <point x="101" y="-71" type="line"/>
-      <point x="496" y="41"/>
-      <point x="555" y="235"/>
-      <point x="553" y="423" type="curve"/>
-      <point x="470" y="423" type="line"/>
-      <point x="470" y="246"/>
-      <point x="432" y="97"/>
+      <point x="59" y="-9" type="curve"/>
+      <point x="105" y="-78" type="line"/>
+      <point x="500" y="33"/>
+      <point x="544" y="236"/>
+      <point x="542" y="431" type="curve"/>
+      <point x="461" y="431" type="line"/>
+      <point x="461" y="251"/>
+      <point x="438" y="96"/>
     </contour>
     <contour>
-      <point x="889" y="-80" type="curve"/>
-      <point x="945" y="-19" type="line"/>
-      <point x="828" y="58"/>
-      <point x="686" y="138"/>
-      <point x="556" y="202" type="curve"/>
-      <point x="513" y="141" type="line"/>
-      <point x="640" y="77"/>
-      <point x="782" y="-4"/>
+      <point x="889" y="-82" type="curve"/>
+      <point x="945" y="-20" type="line"/>
+      <point x="828" y="57"/>
+      <point x="686" y="137"/>
+      <point x="556" y="201" type="curve"/>
+      <point x="514" y="138" type="line"/>
+      <point x="640" y="74"/>
+      <point x="782" y="-6"/>
     </contour>
     <contour>
-      <point x="71" y="229" type="line"/>
-      <point x="931" y="229" type="line"/>
+      <point x="71" y="227" type="line"/>
+      <point x="931" y="227" type="line"/>
       <point x="931" y="306" type="line"/>
       <point x="71" y="306" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-20 22:21:30 +0000</string>
+    </dict>
+  </lib>
 </glyph>

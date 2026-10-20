@@ -82,17 +82,17 @@
     </contour>
     <contour>
       <point x="793" y="355" type="curve" smooth="yes"/>
-      <point x="793" y="456" type="line"/>
-      <point x="852" y="497"/>
-      <point x="894" y="534"/>
-      <point x="938" y="587" type="curve"/>
+      <point x="793" y="455" type="line"/>
+      <point x="848" y="494"/>
+      <point x="897" y="536"/>
+      <point x="940" y="587" type="curve"/>
       <point x="885" y="639" type="line"/>
       <point x="871" y="632" type="line"/>
       <point x="580" y="632" type="line"/>
       <point x="580" y="554" type="line"/>
-      <point x="795" y="554" type="line"/>
-      <point x="773" y="529"/>
-      <point x="745" y="506"/>
+      <point x="800" y="554" type="line"/>
+      <point x="777" y="530"/>
+      <point x="746" y="506"/>
       <point x="716" y="488" type="curve"/>
       <point x="716" y="359" type="line" smooth="yes"/>
       <point x="716" y="313"/>

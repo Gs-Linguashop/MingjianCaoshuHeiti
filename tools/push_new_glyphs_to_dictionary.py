@@ -24,7 +24,7 @@ new_entries = []
 with open(new_file, "r", encoding="utf-8") as f:
 	for line in f:
 		line = line.strip()
-		if not line or "\t" not in line:
+		if not line or line.startswith("#") or "\t" not in line:
 			continue
 		char, structure = line.split("\t", 1)
 		uni = get_unicode_hex(char)
