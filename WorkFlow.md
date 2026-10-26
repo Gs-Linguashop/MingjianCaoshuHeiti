@@ -37,6 +37,8 @@ python3 tools/run_in_glyphs.py generate_component_layers
 ```
 
 也可以通过 Glyphs 的 Scripts 菜单或 Macro Panel 运行。
+Macro Panel 中粘贴的完整脚本不会随仓库更新；建议使用上述启动命令，或在 Macro Panel
+中用 `runpy.run_path` 加载当前脚本，避免继续运行旧副本。
 
 运行后会弹出选项窗口，Width 和 Height 可分别选择缩放到 **50% 或 75%**，
 已有智能部件轴时默认选中该轴的最小值，未设置的轴默认 **75%**。

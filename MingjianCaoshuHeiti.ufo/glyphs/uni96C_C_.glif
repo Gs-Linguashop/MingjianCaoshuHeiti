@@ -50,10 +50,10 @@
       <point x="483" y="493"/>
     </contour>
     <contour>
-      <point x="403" y="-51" type="line"/>
+      <point x="413" y="-51" type="line"/>
       <point x="968" y="-51" type="line"/>
       <point x="968" y="29" type="line"/>
-      <point x="403" y="29" type="line"/>
+      <point x="413" y="29" type="line"/>
     </contour>
     <contour>
       <point x="610" y="9" type="curve"/>
@@ -103,10 +103,10 @@
       <point x="518" y="528" type="line"/>
     </contour>
     <contour>
-      <point x="419" y="699" type="line"/>
+      <point x="429" y="699" type="line"/>
       <point x="945" y="699" type="line"/>
       <point x="945" y="779" type="line"/>
-      <point x="419" y="779" type="line"/>
+      <point x="429" y="779" type="line"/>
     </contour>
   </outline>
 </glyph>
