@@ -2,6 +2,7 @@
 <glyph name="uni5C1A" format="2">
   <advance width="1000"/>
   <unicode hex="5C1A"/>
+  <unicode hex="5C19"/>
   <outline>
     <contour>
       <point x="264" y="568" type="curve"/>
@@ -76,4 +77,10 @@
       <point x="407" y="-70"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 15:34:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>

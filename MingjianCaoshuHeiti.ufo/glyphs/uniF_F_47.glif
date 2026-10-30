@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF47" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF47"/>
+  <outline>
+    <component base="g" xOffset="228" identifier="4AE8D9FE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 01:29:44 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4AE8D9FE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

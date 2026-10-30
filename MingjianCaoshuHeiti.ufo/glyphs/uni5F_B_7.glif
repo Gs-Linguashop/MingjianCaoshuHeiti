@@ -2,6 +2,7 @@
 <glyph name="uni5FB7" format="2">
   <advance width="1000" height="1000"/>
   <unicode hex="5FB7"/>
+  <unicode hex="5FB3"/>
   <note>
 cid17468
 </note>
@@ -68,7 +69,7 @@ cid17468
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-26 13:30:52 +0000</string>
+      <string>2026-10-29 18:08:48 +0000</string>
     </dict>
   </lib>
 </glyph>

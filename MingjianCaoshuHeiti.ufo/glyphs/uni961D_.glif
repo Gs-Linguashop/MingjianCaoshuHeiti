@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni961D" format="2">
+  <advance width="1000"/>
+  <unicode hex="961D"/>
+  <outline>
+    <contour>
+      <point x="291" y="682" type="line"/>
+      <point x="709" y="682" type="line"/>
+      <point x="709" y="762" type="line"/>
+      <point x="291" y="762" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="724" type="line"/>
+      <point x="459" y="724" type="line"/>
+      <point x="459" y="-66" type="line"/>
+      <point x="541" y="-66" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 23:43:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

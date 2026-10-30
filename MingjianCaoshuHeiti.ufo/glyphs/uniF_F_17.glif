@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF17" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF17"/>
+  <outline>
+    <component base="seven" xOffset="198" identifier="CEA6F8E7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 01:29:48 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CEA6F8E7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

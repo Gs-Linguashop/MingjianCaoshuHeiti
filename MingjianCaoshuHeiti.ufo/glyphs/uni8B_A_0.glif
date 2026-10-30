@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8BA0" format="2">
+  <advance width="1000"/>
+  <unicode hex="8BA0"/>
+  <outline>
+    <contour>
+      <point x="461" y="807" type="curve"/>
+      <point x="404" y="754" type="line"/>
+      <point x="458" y="708"/>
+      <point x="519" y="651"/>
+      <point x="549" y="611" type="curve"/>
+      <point x="609" y="669" type="line"/>
+      <point x="577" y="708"/>
+      <point x="516" y="763"/>
+    </contour>
+    <contour>
+      <point x="442" y="48" type="line"/>
+      <point x="514" y="32" type="line"/>
+      <point x="644" y="503" type="line"/>
+      <point x="579" y="538" type="line"/>
+      <point x="560" y="524" type="line"/>
+      <point x="304" y="524" type="line"/>
+      <point x="304" y="444" type="line"/>
+      <point x="538" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="689" y="190" type="line"/>
+      <point x="335" y="36" type="line"/>
+      <point x="371" y="-44" type="line"/>
+      <point x="722" y="118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 22:25:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

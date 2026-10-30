@@ -2,6 +2,7 @@
 <glyph name="uni4FAE" format="2">
   <advance width="1000"/>
   <unicode hex="4FAE"/>
+  <unicode hex="FA30"/>
   <outline>
     <contour>
       <point x="126" y="-61" type="line"/>
@@ -76,4 +77,10 @@
       <point x="275" y="706" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 00:46:04 +0000</string>
+    </dict>
+  </lib>
 </glyph>

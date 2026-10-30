@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF4A" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF4A"/>
+  <outline>
+    <component base="j" xOffset="454" identifier="014F3053"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 01:29:44 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>014F3053</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

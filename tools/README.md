@@ -63,9 +63,11 @@ python3 -m venv .venv
 | [run_in_glyphs.py](run_in_glyphs.py) | 终端 → Glyphs 3 | 从终端选择并运行项目中的交互工具；无需复制脚本或填写绝对路径。 |
 | [generate_component_layers.py](generate_component_layers.py) | Glyphs 3 | 从所选字形的 Regular 补齐 Narrow、Short、Small，不限名称前缀，保留已有图层并配置智能部件轴。宽高可选 50% 或 75%，默认沿用已有轴设置，未设置时为 75%；异常或相互冲突的轴设置会警告并停止。以汉字字框右下角为原点缩放，轻微减细笔画，保持原有水平、垂直对齐及取整间距。 |
 | [create_glyphs_from_components.py](create_glyphs_from_components.py) | Glyphs | 根据 `out/new_glyphs.txt` 和部件表创建缺失字形，保留已有字形。 |
+| [create_fullwidth_glyphs.py](create_fullwidth_glyphs.py) | Glyphs 3 | 读取全角映射，为已有原字符创建缺失的全角字形；每个主版使用一个原字符部件，保持原大小及纵向位置，在一个 em 字宽内水平居中。 |
 | [create_scaled_glyphs_from_components.py](create_scaled_glyphs_from_components.py) | Glyphs 3 | 识别当前部件，按字体内同位置搭配的双部件字形统计智能 Width/Height 与位移；宽、高分别询问一次权重，逐字打开新标签页。 |
 | [generate_sample_text.py](generate_sample_text.py) | Glyphs | 输入待检查的文字，混入字体中的随机字符，生成测试文本并打开新标签页。 |
 | [count_cjk_codepoints.py](count_cjk_codepoints.py) | Glyphs | 统计字体覆盖的汉字及部首字码，导出至 `out/cjk_characters.txt`。 |
+| [check_character_coverage.py](check_character_coverage.py) | Glyphs 3 | 直接读取当前字体的全部 Unicode 分配，对照七个覆盖字表，将缺字与统计写入 `out/coverage/`。 |
 | [format_glyph_decompositions.py](format_glyph_decompositions.py) | 命令行 | 整理汉字拆分结构，输出至 `out/new_glyphs.txt`；运行时追加参数，如 `'样例新字'`。 |
 | [push_new_glyphs_to_dictionary.py](push_new_glyphs_to_dictionary.py) | 命令行 | 将新字记录合并到 `src/dictionary.txt`，去重并按字码排序。 |
 | [find_component_users.py](find_component_users.py) | 命令行 | 在本地 Glyphs 字体包中查找使用指定部件及其变体的字形；可追加部件名，默认 `uni2E94`。 |
@@ -84,6 +86,33 @@ python3 -m venv .venv
 ```
 
 生成宏与字形表合并工具均会忽略注释行。
+
+## 检查字表覆盖率
+
+在 Glyphs 3 中打开本项目字体，然后运行：
+
+```sh
+python3 tools/run_in_glyphs.py check_character_coverage
+```
+
+直接读取当前字体的全部 Unicode 分配（含次要码位、不导出的字形及未保存修改），
+对照 `src-external/coverage/` 下所有 `.txt` 字表，不修改字体。
+结果写入 `out/coverage/`：各表的 `missing_<字表文件名>.txt`、缺字并集 `missing_all.txt`
+和统计 `summary.json`。缺字按 Unicode 升序，每行 `字符<TAB>大写十六进制码位`，
+码位至少四位、无 `U+` 前缀；完全覆盖时为空文件。每次覆盖同名报告，该目录已被 Git 忽略。
+此检查针对源字体的码位分配，不验证导出字体的 cmap 或轮廓。
+
+## 从原字符创建全角字形
+
+在 Glyphs 3 中打开本项目字体，然后运行：
+
+```sh
+python3 tools/run_in_glyphs.py create_fullwidth_glyphs
+```
+
+读取 `src-external/fullwidth-glyph-map.txt`，按 Unicode 查找原字符，为缺失的全角字符创建字形。
+每个主版使用一个原字符部件，保持大小和纵向位置，在一个 em 字宽内水平居中。
+已有字形及缺少原字符或主版图层的条目跳过；新增字形显示在新标签页中，检查后手动保存。
 
 ## 按智能部件统计生成新字
 

@@ -2,6 +2,7 @@
 <glyph name="uni7E41" format="2">
   <advance width="1000"/>
   <unicode hex="7E41"/>
+  <unicode hex="FA59"/>
   <outline>
     <contour>
       <point x="385" y="404" type="curve"/>
@@ -145,4 +146,10 @@
       <point x="847" y="-9"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 00:55:48 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,6 +3,7 @@
   <advance width="1000" height="1000"/>
   <unicode hex="5C08"/>
   <unicode hex="4E13"/>
+  <unicode hex="5C02"/>
   <note>
 cid09509
 </note>
@@ -70,4 +71,10 @@ cid09509
       <point x="126" y="713" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 15:27:09 +0000</string>
+    </dict>
+  </lib>
 </glyph>

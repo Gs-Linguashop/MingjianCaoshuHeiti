@@ -2,6 +2,7 @@
 <glyph name="uni6BCF" format="2">
   <advance width="1000" height="1000"/>
   <unicode hex="6BCF"/>
+  <unicode hex="6BCE"/>
   <note>
 cid22839
 </note>
@@ -63,4 +64,10 @@ cid22839
       <point x="75" y="720" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 19:41:19 +0000</string>
+    </dict>
+  </lib>
 </glyph>

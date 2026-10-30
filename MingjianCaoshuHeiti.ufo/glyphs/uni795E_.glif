@@ -2,6 +2,7 @@
 <glyph name="uni795E" format="2">
   <advance width="1000"/>
   <unicode hex="795E"/>
+  <unicode hex="FA19"/>
   <outline>
     <contour>
       <point x="17" y="202" type="line"/>
@@ -84,4 +85,10 @@
       <point x="421" y="470" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 00:44:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>

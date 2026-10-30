@@ -101,11 +101,11 @@
       <point x="330" y="627" type="line"/>
       <point x="330" y="548" type="line"/>
     </contour>
-    <contour>
-      <point x="306" y="369" type="move"/>
-      <point x="306" y="369"/>
-      <point x="307" y="369"/>
-      <point x="307" y="369" type="curve"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 01:33:30 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="uni654F" format="2">
   <advance width="1000"/>
   <unicode hex="654F"/>
+  <unicode hex="FA41"/>
   <outline>
     <contour>
       <point x="387" y="81" type="curve"/>
@@ -78,4 +79,10 @@
       <point x="540" y="458"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 00:50:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,328 @@
+{
+  "retrieved_on": "2026-10-29",
+  "format": "UTF-8, LF, unique Unicode scalar values in ascending numeric order, one per line, final newline; no header or BOM",
+  "raw_sources": [
+    {
+      "file": "mainland-common-1988-shanghai.html",
+      "url": "https://edu.sh.gov.cn/yywz_gfbz_gygfhz/20150712/0015-yywz_2003.html",
+      "sha256": "910f4597da551947e6e7b569f77b10c55af001e1d6ca385dbb5399ebdddfaab3"
+    },
+    {
+      "file": "unihan-17.0.0.zip",
+      "url": "https://www.unicode.org/Public/17.0.0/ucd/Unihan.zip",
+      "sha256": "f7a48b2b545acfaa77b2d607ae28747404ce02baefee16396c5d2d7a8ef34b5e"
+    },
+    {
+      "file": "japan-joyo-2010.pdf",
+      "url": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf",
+      "sha256": "d9f28aeb4ce8250dbde07de20ac66cca71805ba09d94e4942c752dffa84d8d42"
+    },
+    {
+      "file": "korea-textbook-compilation-2023.pdf",
+      "url": "https://cdn.kosac.re.kr/files/legacy_data/jnrepo/upload/jnBrdBoard/202304/4218d69f2c4343b88c2a7dde9fa62706_1680754521571.pdf",
+      "sha256": "adfe4738170cf47e5e08833f670ce63102974db8034b355e21781e11516d618b"
+    },
+    {
+      "file": "taiwan-6063.pdf",
+      "url": "https://stroke-order.learningweb.moe.edu.tw/download/6063.pdf",
+      "sha256": "ddd19343e51c8b2d334de7ceefb059a57ad3c5e2ddb91df2f7fc965ca61a5d97"
+    },
+    {
+      "file": "hk-strokes-1.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=1",
+      "sha256": "666ccc8a9edb365f0442a954d6f9a63d32d1508d71e82f141bce0d76f4bb32b1"
+    },
+    {
+      "file": "hk-strokes-2.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=2",
+      "sha256": "6cab06fc789bb203f8c10f2b54afca5046c8d7b4aeee7987bdf7e43725226a6e"
+    },
+    {
+      "file": "hk-strokes-3.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=3",
+      "sha256": "5dc0c7de2ba79f3b073ab73978ecbb9541f7f5878380ebdb5c39140a0d5a3c91"
+    },
+    {
+      "file": "hk-strokes-4.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=4",
+      "sha256": "f230e0ad227d0058b6361807ada41a0e528d38473d536ce11f4b18568cede700"
+    },
+    {
+      "file": "hk-strokes-5.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=5",
+      "sha256": "cedb0b47b77d47c6fea8b86e489add468050e630f077735b921c31756cc4e2f1"
+    },
+    {
+      "file": "hk-strokes-6.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=6",
+      "sha256": "130f1ff50c92e4c30aaf5dcad404915658f3dff06bf18ed9f839301bdf3620b5"
+    },
+    {
+      "file": "hk-strokes-7.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=7",
+      "sha256": "a09977ed160de82c7bcf7a02c894d54f94ec0e369925b3213ebbd5f7f67f38a1"
+    },
+    {
+      "file": "hk-strokes-8.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=8",
+      "sha256": "bda400e5dd018a33788f386bdeee0f1a6310957a6ca1f81d8cc6b1eef8cc9c5e"
+    },
+    {
+      "file": "hk-strokes-9.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=9",
+      "sha256": "3c96ba8529eaffe347202f6801d58669b7b488359dc9301ef2e57c11a64d418c"
+    },
+    {
+      "file": "hk-strokes-10.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=10",
+      "sha256": "dc6511b3639c1b2fdab95ec68aea97001f98da4de257fac608520bf7ad1bd7ed"
+    },
+    {
+      "file": "hk-strokes-11.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=11",
+      "sha256": "fbbc5015ddd9eb33f7370091efb1a8cf90552adb195a42ce2eea5600ec26c234"
+    },
+    {
+      "file": "hk-strokes-12.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=12",
+      "sha256": "6475401d10f9e2dd3d0fc5b1bf2d2031f7e04e5794b804f899fb605e7dade177"
+    },
+    {
+      "file": "hk-strokes-13.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=13",
+      "sha256": "803e1a114de17b47a1b82950cac80d82333ab6dbfc10f141e17b841b77a2073d"
+    },
+    {
+      "file": "hk-strokes-14.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=14",
+      "sha256": "8acd3bc7cfa8e6a787c542c8274f06132e8d3f1e229d9b9518e7db676ad15f59"
+    },
+    {
+      "file": "hk-strokes-15.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=15",
+      "sha256": "d2d01356cdc5ca1c5b5102f76709f47749d2406c339c376d80b32c3538452793"
+    },
+    {
+      "file": "hk-strokes-16.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=16",
+      "sha256": "19464890df0f018c97cab2a8a2832950f69341346b342a474a0b781e25089edb"
+    },
+    {
+      "file": "hk-strokes-17.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=17",
+      "sha256": "21c9ac53327949d6a4709b18d2c5a4acbe597ccc9e53ffcf06a988babccf4eb3"
+    },
+    {
+      "file": "hk-strokes-18.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=18",
+      "sha256": "34fff14bde1b054704abd7680ccbbc2fb4ee39f9858af06102ead0f63d252f85"
+    },
+    {
+      "file": "hk-strokes-19.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=19",
+      "sha256": "678367eaee38177c2372ad4413b9bbaf714d63891830e7fe286b6e008f0a0b41"
+    },
+    {
+      "file": "hk-strokes-20.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=20",
+      "sha256": "852557269defa686445e944dba9669e99614052899dbd6ab1f00b6397c5278ab"
+    },
+    {
+      "file": "hk-strokes-21.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=21",
+      "sha256": "28d6132d5ae41b29b834544d657c08a5162f7e57140342a693a3acec87f14bae"
+    },
+    {
+      "file": "hk-strokes-22.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=22",
+      "sha256": "7813ac6e0d0dcaed89b130317deda7e17d47df5feb925e6d716a744b1070fc27"
+    },
+    {
+      "file": "hk-strokes-23.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=23",
+      "sha256": "bb24368907c6d422e1d48cc6407e20cc27063709d0da57ae8f95c49d668bb784"
+    },
+    {
+      "file": "hk-strokes-24.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=24",
+      "sha256": "7290b05e16798dc598f35c57777085449a600b1ce4519d3b5437e863b854b867"
+    },
+    {
+      "file": "hk-strokes-25.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=25",
+      "sha256": "edb07d490c20ffbee10f8bc9dfa9e0c712159b8f3e7f300c0352281218257a2b"
+    },
+    {
+      "file": "hk-strokes-26.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=26",
+      "sha256": "effa179bd8008f6607d68142d89d3ebe17f8cdb0bada4bd2af83641dde6b0610"
+    },
+    {
+      "file": "hk-strokes-27.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=27",
+      "sha256": "68c4473d190c9b9ca55ae5b017742112d11a1a1434a61cf8e0e5f42e6333dca3"
+    },
+    {
+      "file": "hk-strokes-28.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=28",
+      "sha256": "8937e7d323fff1c5f95012ac7d4a6322b9398b0275486ea12674c61e46f8707d"
+    },
+    {
+      "file": "hk-strokes-29.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=29",
+      "sha256": "b5700e62bd234f81dac7df47141085ee343f61161b27db3c7bba878f2f9ff630"
+    },
+    {
+      "file": "hk-strokes-30.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=30",
+      "sha256": "6251c3f5551b0ad062f791485c676c6484876b8ad1536cbbee4c0b816ca7f88b"
+    },
+    {
+      "file": "hk-strokes-31.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=31",
+      "sha256": "448931072fef59dd12203da3213e0b0c49ce6be64e2f733c92eff063728ea0e1"
+    },
+    {
+      "file": "hk-strokes-32.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=32",
+      "sha256": "c268568a74532842ca7c92c49b852a6ea38912ff9016c889b524b1e9da72b3b2"
+    },
+    {
+      "file": "hk-strokes-33.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/charlist.jsp?searchMethod=stk&searchCriteria=33",
+      "sha256": "448931072fef59dd12203da3213e0b0c49ce6be64e2f733c92eff063728ea0e1"
+    }
+  ],
+  "lists": [
+    {
+      "file": "mainland_china_frequently_used_characters_1988.txt",
+      "title": "Mainland China — List of Frequently Used Characters in Modern Chinese (1988)",
+      "count": 3500,
+      "sha256": "5aa181efa99d0da0fb5a15d82f68348e9ac1ce5a15f725e853c06790be3df1ee",
+      "sources": [
+        "mainland-common-1988-shanghai.html"
+      ]
+    },
+    {
+      "file": "mainland_china_gb2312_1980.txt",
+      "title": "Mainland China — GB/T 2312-1980: Chinese Character Set for Information Interchange, Primary Set",
+      "count": 6763,
+      "sha256": "715307508c855dd8a29067539a0798e83c982a85ee8adbad2ebde30cc5742d51",
+      "sources": [
+        "unihan-17.0.0.zip"
+      ]
+    },
+    {
+      "file": "mainland_china_gb12345_1990.txt",
+      "title": "Mainland China — GB/T 12345-1990: Chinese Ideogram Set for Information Interchange, Supplementary Set",
+      "count": 6866,
+      "sha256": "75afb3941ae1bbe03ad9360e402db4ccd45e4232af82fe6af0816457edfc25b7",
+      "sources": [
+        "unihan-17.0.0.zip"
+      ]
+    },
+    {
+      "file": "taiwan_standard_forms_of_common_national_characters.txt",
+      "title": "Taiwan — Chart of Standard Forms of Common National Characters",
+      "count": 4808,
+      "sha256": "9ecf750482a0039f19ff8e9a19127152b67313ffd061fa6d24bea8cfa2d8d3a4",
+      "sources": [
+        "taiwan-6063.pdf"
+      ]
+    },
+    {
+      "file": "hong_kong_graphemes_of_commonly_used_characters.txt",
+      "title": "Hong Kong — List of Graphemes of Commonly-used Chinese Characters (2007 rearranged edition)",
+      "count": 4762,
+      "sha256": "f61a71a3b01d3dd61e7014bf5afc841196680ac216a62e681ceee873420dc0a1",
+      "sources": [
+        "hk-strokes-1.html",
+        "hk-strokes-2.html",
+        "hk-strokes-3.html",
+        "hk-strokes-4.html",
+        "hk-strokes-5.html",
+        "hk-strokes-6.html",
+        "hk-strokes-7.html",
+        "hk-strokes-8.html",
+        "hk-strokes-9.html",
+        "hk-strokes-10.html",
+        "hk-strokes-11.html",
+        "hk-strokes-12.html",
+        "hk-strokes-13.html",
+        "hk-strokes-14.html",
+        "hk-strokes-15.html",
+        "hk-strokes-16.html",
+        "hk-strokes-17.html",
+        "hk-strokes-18.html",
+        "hk-strokes-19.html",
+        "hk-strokes-20.html",
+        "hk-strokes-21.html",
+        "hk-strokes-22.html",
+        "hk-strokes-23.html",
+        "hk-strokes-24.html",
+        "hk-strokes-25.html",
+        "hk-strokes-26.html",
+        "hk-strokes-27.html",
+        "hk-strokes-28.html",
+        "hk-strokes-29.html",
+        "hk-strokes-30.html",
+        "hk-strokes-31.html",
+        "hk-strokes-32.html",
+        "hk-strokes-33.html"
+      ]
+    },
+    {
+      "file": "japan_joyo_kanji_2010_with_kyujitai.txt",
+      "title": "Japan — Jōyō Kanji Table (2010), including Kyūjitai",
+      "count": 2500,
+      "sha256": "4d751570b99a00ea27823a8c09ffc932e335b6fd694d44f6b354d68887e14f10",
+      "sources": [
+        "japan-joyo-2010.pdf"
+      ]
+    },
+    {
+      "file": "south_korea_basic_hanja_for_educational_use.txt",
+      "title": "South Korea — Basic Hanja for Educational Use",
+      "count": 1800,
+      "sha256": "5de13206a7597dfa386bd5a13db7fe1a8b2b70c0b3e77f8f1dff44a30139beab",
+      "sources": [
+        "korea-textbook-compilation-2023.pdf"
+      ]
+    }
+  ],
+  "reference_sources": [
+    {
+      "file": "mainland-osaka-1988.pdf",
+      "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/80063/poufs_20.pdf",
+      "sha256": "2a4c7abedf959d8f4e4db8bc0c0b719d712f6a0c8297b5cc75ac2fa61e29fba0",
+      "note": "Published reproduction, printed p. 81 / PDF p. 88 confirms 磺."
+    },
+    {
+      "file": "gb-2312-catalog.html",
+      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC",
+      "sha256": "0cbf81db67943262289356a9cc9a9c6da80f3776d4fac30f159f1ddd8d6df13a"
+    },
+    {
+      "file": "gb-12345-catalog.html",
+      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B",
+      "sha256": "5276178b3915cc99675567b35cff5d46024558908b3174a42e922ee8a4b9f416"
+    },
+    {
+      "file": "hk-introduction.pdf",
+      "url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/primary/lang/curriculum-materials/ziXingBiao_jianJie_TC.pdf",
+      "sha256": "b0c9b24c0f1d5553232090a3485559a85509875296670a1bd83013c329f2a5c0"
+    },
+    {
+      "file": "hk-character-2000.html",
+      "url": "https://www.edbchinese.hk/lexlist_ch/result.jsp?id=2000",
+      "note": "Explicitly distinguishes 4,762-character table from 3,171-character primary learning list.",
+      "sha256": "7a217b5a9af66784979b1c00c71db20fa8d2a77bb54151b63a30083971238054"
+    },
+    {
+      "file": "hk-reference.txt",
+      "url": "https://raw.githubusercontent.com/rime-aca/character_set/master/常用字字形表.txt",
+      "note": "Secondary transcription of the 2000 edition; used only for comparison.",
+      "sha256": "079604aa2095fa9e6c3c797d9a4bee337836e13272a26fc0618934aa3b9b9fa1"
+    }
+  ]
+}

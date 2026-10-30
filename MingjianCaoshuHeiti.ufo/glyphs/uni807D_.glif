@@ -2,6 +2,8 @@
 <glyph name="uni807D" format="2">
   <advance width="1000"/>
   <unicode hex="807D"/>
+  <unicode hex="542C"/>
+  <unicode hex="8074"/>
   <outline>
     <contour>
       <point x="141" y="43" type="curve" smooth="yes"/>
@@ -94,4 +96,10 @@
       <point x="275" y="39" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 21:48:34 +0000</string>
+    </dict>
+  </lib>
 </glyph>

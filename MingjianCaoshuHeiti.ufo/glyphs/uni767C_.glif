@@ -3,6 +3,7 @@
   <advance width="1000"/>
   <unicode hex="767C"/>
   <unicode hex="53D1"/>
+  <unicode hex="767A"/>
   <outline>
     <contour>
       <point x="906" y="-63" type="curve"/>
@@ -67,4 +68,10 @@
       <point x="70" y="610" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 20:52:49 +0000</string>
+    </dict>
+  </lib>
 </glyph>

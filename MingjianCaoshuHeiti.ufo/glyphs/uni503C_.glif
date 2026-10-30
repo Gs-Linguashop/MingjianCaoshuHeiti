@@ -2,6 +2,7 @@
 <glyph name="uni503C" format="2">
   <advance width="1000"/>
   <unicode hex="503C"/>
+  <unicode hex="5024"/>
   <outline>
     <contour>
       <point x="145" y="-57" type="line"/>
@@ -80,4 +81,10 @@
       <point x="292" y="694" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 13:47:31 +0000</string>
+    </dict>
+  </lib>
 </glyph>

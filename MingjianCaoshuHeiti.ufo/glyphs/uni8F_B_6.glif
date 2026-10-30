@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni8FB6" format="2">
+  <advance width="1000"/>
+  <unicode hex="8FB6"/>
+  <unicode hex="5EF4"/>
+  <outline>
+    <contour>
+      <point x="928" y="175" type="curve"/>
+      <point x="952" y="261" type="line"/>
+      <point x="654" y="235"/>
+      <point x="427" y="236"/>
+      <point x="283" y="284" type="curve" smooth="yes"/>
+      <point x="196" y="313"/>
+      <point x="135" y="389"/>
+      <point x="109" y="495" type="curve"/>
+      <point x="31" y="477" type="line"/>
+      <point x="66" y="334"/>
+      <point x="144" y="246"/>
+      <point x="253" y="212" type="curve" smooth="yes"/>
+      <point x="403" y="163"/>
+      <point x="625" y="150"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-29 20:23:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

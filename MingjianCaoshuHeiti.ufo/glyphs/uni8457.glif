@@ -4,6 +4,7 @@
   <unicode hex="8457"/>
   <unicode hex="7740"/>
   <unicode hex="7BB8"/>
+  <unicode hex="FA5F"/>
   <note>
 cid27988
 </note>
@@ -91,4 +92,10 @@ cid27988
       <point x="366" y="219" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-30 00:56:45 +0000</string>
+    </dict>
+  </lib>
 </glyph>

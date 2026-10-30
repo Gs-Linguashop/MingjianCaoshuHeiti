@@ -127,6 +127,32 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>uniFF21</string>
+      <string>uniFF22</string>
+      <string>uniFF23</string>
+      <string>uniFF24</string>
+      <string>uniFF25</string>
+      <string>uniFF26</string>
+      <string>uniFF27</string>
+      <string>uniFF28</string>
+      <string>uniFF29</string>
+      <string>uniFF2A</string>
+      <string>uniFF2B</string>
+      <string>uniFF2C</string>
+      <string>uniFF2D</string>
+      <string>uniFF2E</string>
+      <string>uniFF2F</string>
+      <string>uniFF30</string>
+      <string>uniFF31</string>
+      <string>uniFF32</string>
+      <string>uniFF33</string>
+      <string>uniFF34</string>
+      <string>uniFF35</string>
+      <string>uniFF36</string>
+      <string>uniFF37</string>
+      <string>uniFF38</string>
+      <string>uniFF39</string>
+      <string>uniFF3A</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -240,6 +266,32 @@
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
+      <string>uniFF41</string>
+      <string>uniFF42</string>
+      <string>uniFF43</string>
+      <string>uniFF44</string>
+      <string>uniFF45</string>
+      <string>uniFF46</string>
+      <string>uniFF47</string>
+      <string>uniFF48</string>
+      <string>uniFF49</string>
+      <string>uniFF4A</string>
+      <string>uniFF4B</string>
+      <string>uniFF4C</string>
+      <string>uniFF4D</string>
+      <string>uniFF4E</string>
+      <string>uniFF4F</string>
+      <string>uniFF50</string>
+      <string>uniFF51</string>
+      <string>uniFF52</string>
+      <string>uniFF53</string>
+      <string>uniFF54</string>
+      <string>uniFF55</string>
+      <string>uniFF56</string>
+      <string>uniFF57</string>
+      <string>uniFF58</string>
+      <string>uniFF59</string>
+      <string>uniFF5A</string>
       <string>f_f.liga</string>
       <string>f_f_i.liga</string>
       <string>f_f_l.liga</string>
@@ -316,6 +368,7 @@
       <string>uni4E38</string>
       <string>uni4E39</string>
       <string>uni4E3B</string>
+      <string>uni4E3C</string>
       <string>uni4E3D.alt</string>
       <string>uni4E3F</string>
       <string>uni4E43</string>
@@ -333,6 +386,7 @@
       <string>uni4E58</string>
       <string>uni4E59</string>
       <string>uni4E5A</string>
+      <string>uni4E5C</string>
       <string>uni4E5D</string>
       <string>uni4E5E</string>
       <string>uni4E5F</string>
@@ -344,6 +398,7 @@
       <string>uni4E88</string>
       <string>uni4E8B</string>
       <string>uni4E8C</string>
+      <string>uni4E8D</string>
       <string>uni4E8E</string>
       <string>uni4E91</string>
       <string>uni4E92</string>
@@ -354,6 +409,7 @@
       <string>uni4E9B</string>
       <string>uni4E9E</string>
       <string>uni4E9F</string>
+      <string>uni4EA0</string>
       <string>uni4EA1</string>
       <string>uni4EA2</string>
       <string>uni4EA4</string>
@@ -368,6 +424,7 @@
       <string>uni4EB3</string>
       <string>uni4EB6</string>
       <string>uni4EBA</string>
+      <string>uni4EBB</string>
       <string>uni4EC0</string>
       <string>uni4EC1</string>
       <string>uni4EC2</string>
@@ -375,6 +432,7 @@
       <string>uni4EC4</string>
       <string>uni4EC6</string>
       <string>uni4EC7</string>
+      <string>uni4EC9</string>
       <string>uni4ECA</string>
       <string>uni4ECB</string>
       <string>uni4ECD</string>
@@ -499,6 +557,7 @@
       <string>uni4FEF</string>
       <string>uni4FF1</string>
       <string>uni4FF3</string>
+      <string>uni4FF5</string>
       <string>uni4FF8</string>
       <string>uni4FFA</string>
       <string>uni4FFE</string>
@@ -526,6 +585,7 @@
       <string>uni5026</string>
       <string>uni5028</string>
       <string>uni5029</string>
+      <string>uni502A</string>
       <string>uni502B</string>
       <string>uni502C</string>
       <string>uni502D</string>
@@ -570,6 +630,7 @@
       <string>uni50C2</string>
       <string>uni50C5</string>
       <string>uni50C9</string>
+      <string>uni50CD</string>
       <string>uni50CF</string>
       <string>uni50D1</string>
       <string>uni50D5</string>
@@ -798,6 +859,7 @@
       <string>uni52FB</string>
       <string>uni52FE</string>
       <string>uni52FF</string>
+      <string>uni5302</string>
       <string>uni5305</string>
       <string>uni5306</string>
       <string>uni5308</string>
@@ -911,6 +973,7 @@
       <string>uni53F1</string>
       <string>uni53F2</string>
       <string>uni53F3</string>
+      <string>uni53F5</string>
       <string>uni53F7.alt</string>
       <string>uni53F8</string>
       <string>uni53FB</string>
@@ -921,6 +984,7 @@
       <string>uni5406</string>
       <string>uni5408</string>
       <string>uni5409</string>
+      <string>uni540B</string>
       <string>uni540C</string>
       <string>uni540D</string>
       <string>uni540E</string>
@@ -960,6 +1024,7 @@
       <string>uni5448</string>
       <string>uni544A</string>
       <string>uni544B</string>
+      <string>uni544E</string>
       <string>uni5454</string>
       <string>uni5462</string>
       <string>uni5464</string>
@@ -1241,9 +1306,11 @@
       <string>uni56D7</string>
       <string>uni56DA</string>
       <string>uni56DB</string>
+      <string>uni56DD</string>
       <string>uni56DE</string>
       <string>uni56DF</string>
       <string>uni56E0</string>
+      <string>uni56E1</string>
       <string>uni56E4</string>
       <string>uni56EB</string>
       <string>uni56F0</string>
@@ -1256,6 +1323,7 @@
       <string>uni5704</string>
       <string>uni5707</string>
       <string>uni5708</string>
+      <string>uni5709</string>
       <string>uni570A</string>
       <string>uni570B</string>
       <string>uni570D</string>
@@ -1339,6 +1407,7 @@
       <string>uni57F8</string>
       <string>uni57F9</string>
       <string>uni57FA</string>
+      <string>uni57FC</string>
       <string>uni57FD</string>
       <string>uni5800</string>
       <string>uni5802</string>
@@ -1360,6 +1429,8 @@
       <string>uni5830</string>
       <string>uni5831</string>
       <string>uni5835</string>
+      <string>uni5840</string>
+      <string>uni5844</string>
       <string>uni584A</string>
       <string>uni584B</string>
       <string>uni584C</string>
@@ -1377,6 +1448,7 @@
       <string>uni5865</string>
       <string>uni586B</string>
       <string>uni586C</string>
+      <string>uni586D</string>
       <string>uni5872</string>
       <string>uni5875</string>
       <string>uni5879</string>
@@ -1451,6 +1523,7 @@
       <string>uni5931</string>
       <string>uni5937</string>
       <string>uni5938</string>
+      <string>uni593C</string>
       <string>uni593E</string>
       <string>uni5944</string>
       <string>uni5947</string>
@@ -1497,6 +1570,7 @@
       <string>uni59A4</string>
       <string>uni59A5</string>
       <string>uni59A8</string>
+      <string>uni59AC</string>
       <string>uni59AE</string>
       <string>uni59AF</string>
       <string>uni59B2</string>
@@ -1505,6 +1579,7 @@
       <string>uni59BB</string>
       <string>uni59BE</string>
       <string>uni59C6</string>
+      <string>uni59C9</string>
       <string>uni59CA</string>
       <string>uni59CB</string>
       <string>uni59CD</string>
@@ -1621,6 +1696,7 @@
       <string>uni5B65</string>
       <string>uni5B68</string>
       <string>uni5B69</string>
+      <string>uni5B6C</string>
       <string>uni5B70</string>
       <string>uni5B71</string>
       <string>uni5B75</string>
@@ -1703,8 +1779,10 @@
       <string>uni5C0F</string>
       <string>uni5C11</string>
       <string>uni5C14</string>
+      <string>uni5C15</string>
       <string>uni5C16</string>
       <string>uni5C1A</string>
+      <string>uni5C1C</string>
       <string>uni5C1E</string>
       <string>uni5C22</string>
       <string>uni5C24</string>
@@ -1770,6 +1848,7 @@
       <string>uni5CCB</string>
       <string>uni5CD2</string>
       <string>uni5CD9</string>
+      <string>uni5CE0</string>
       <string>uni5CE8</string>
       <string>uni5CEA</string>
       <string>uni5CED</string>
@@ -1779,6 +1858,7 @@
       <string>uni5CF6</string>
       <string>uni5CFB</string>
       <string>uni5CFD</string>
+      <string>uni5D01</string>
       <string>uni5D06</string>
       <string>uni5D07</string>
       <string>uni5D0D</string>
@@ -1809,6 +1889,7 @@
       <string>uni5D5B</string>
       <string>uni5D69</string>
       <string>uni5D6B</string>
+      <string>uni5D6C</string>
       <string>uni5D6F</string>
       <string>uni5D74</string>
       <string>uni5D81</string>
@@ -1845,6 +1926,7 @@
       <string>uni5DE9</string>
       <string>uni5DEB</string>
       <string>uni5DEE</string>
+      <string>uni5DF0</string>
       <string>uni5DF1</string>
       <string>uni5DF2</string>
       <string>uni5DF3</string>
@@ -1958,6 +2040,7 @@
       <string>uni5F0A</string>
       <string>uni5F0B</string>
       <string>uni5F0F</string>
+      <string>uni5F10</string>
       <string>uni5F11</string>
       <string>uni5F13</string>
       <string>uni5F14</string>
@@ -2035,8 +2118,10 @@
       <string>uni5FBC</string>
       <string>uni5FBD</string>
       <string>uni5FC3</string>
+      <string>uni5FC4</string>
       <string>uni5FC5</string>
       <string>uni5FC9</string>
+      <string>uni5FCC</string>
       <string>uni5FCD</string>
       <string>uni5FD0</string>
       <string>uni5FD1</string>
@@ -2185,6 +2270,7 @@
       <string>uni614E</string>
       <string>uni6155</string>
       <string>uni6158</string>
+      <string>uni6159</string>
       <string>uni615A</string>
       <string>uni615D</string>
       <string>uni615F</string>
@@ -2287,6 +2373,7 @@
       <string>uni6248</string>
       <string>uni6249</string>
       <string>uni624B</string>
+      <string>uni624C</string>
       <string>uni624D</string>
       <string>uni624E</string>
       <string>uni6251</string>
@@ -2300,6 +2387,7 @@
       <string>uni626D</string>
       <string>uni626E</string>
       <string>uni626F</string>
+      <string>uni6271</string>
       <string>uni6273</string>
       <string>uni6276</string>
       <string>uni6279</string>
@@ -2392,6 +2480,7 @@
       <string>uni634F</string>
       <string>uni6350</string>
       <string>uni6355</string>
+      <string>uni6357</string>
       <string>uni6367</string>
       <string>uni6368</string>
       <string>uni6369</string>
@@ -2546,6 +2635,7 @@
       <string>uni64DA</string>
       <string>uni64E0</string>
       <string>uni64E2</string>
+      <string>uni64E4</string>
       <string>uni64E6</string>
       <string>uni64EC</string>
       <string>uni64EF</string>
@@ -2610,6 +2700,7 @@
       <string>uni6582</string>
       <string>uni6583</string>
       <string>uni6587</string>
+      <string>uni658C</string>
       <string>uni6590</string>
       <string>uni6591</string>
       <string>uni6595</string>
@@ -2652,6 +2743,8 @@
       <string>uni65E9</string>
       <string>uni65EC</string>
       <string>uni65ED</string>
+      <string>uni65EE</string>
+      <string>uni65EF</string>
       <string>uni65F0</string>
       <string>uni65F1</string>
       <string>uni65FA</string>
@@ -2798,9 +2891,11 @@
       <string>uni6790.alt</string>
       <string>uni6795</string>
       <string>uni6797</string>
+      <string>uni6798</string>
       <string>uni679A</string>
       <string>uni679C</string>
       <string>uni679D</string>
+      <string>uni67A0</string>
       <string>uni67AF</string>
       <string>uni67B0</string>
       <string>uni67B1</string>
@@ -2837,6 +2932,7 @@
       <string>uni67FA</string>
       <string>uni67FF</string>
       <string>uni6800</string>
+      <string>uni6803</string>
       <string>uni6813</string>
       <string>uni6816</string>
       <string>uni6817</string>
@@ -2866,6 +2962,7 @@
       <string>uni6850</string>
       <string>uni6851.alt</string>
       <string>uni6853</string>
+      <string>uni6854</string>
       <string>uni6855</string>
       <string>uni686B</string>
       <string>uni6874</string>
@@ -3144,8 +3241,11 @@
       <string>uni6C11</string>
       <string>uni6C13</string>
       <string>uni6C14</string>
+      <string>uni6C15</string>
       <string>uni6C16</string>
+      <string>uni6C18</string>
       <string>uni6C19</string>
+      <string>uni6C1A</string>
       <string>uni6C1B</string>
       <string>uni6C1F</string>
       <string>uni6C21</string>
@@ -3162,13 +3262,17 @@
       <string>uni6C30</string>
       <string>uni6C33</string>
       <string>uni6C34</string>
+      <string>uni6C35</string>
       <string>uni6C36</string>
       <string>uni6C38</string>
+      <string>uni6C3D</string>
       <string>uni6C3E</string>
       <string>uni6C40</string>
       <string>uni6C41</string>
       <string>uni6C42</string>
+      <string>uni6C46</string>
       <string>uni6C4A</string>
+      <string>uni6C4E</string>
       <string>uni6C50</string>
       <string>uni6C54</string>
       <string>uni6C55</string>
@@ -3211,6 +3315,7 @@
       <string>uni6CAD</string>
       <string>uni6CAE</string>
       <string>uni6CB1</string>
+      <string>uni6CB2</string>
       <string>uni6CB3</string>
       <string>uni6CB8</string>
       <string>uni6CB9</string>
@@ -3281,6 +3386,7 @@
       <string>uni6D66</string>
       <string>uni6D69</string>
       <string>uni6D6A</string>
+      <string>uni6D6C</string>
       <string>uni6D6E</string>
       <string>uni6D6F</string>
       <string>uni6D74</string>
@@ -3379,6 +3485,7 @@
       <string>uni6E86</string>
       <string>uni6E89</string>
       <string>uni6E8F</string>
+      <string>uni6E90</string>
       <string>uni6E98</string>
       <string>uni6E9C</string>
       <string>uni6E9D</string>
@@ -3451,6 +3558,7 @@
       <string>uni6F59</string>
       <string>uni6F5C</string>
       <string>uni6F5E</string>
+      <string>uni6F5F</string>
       <string>uni6F62</string>
       <string>uni6F64</string>
       <string>uni6F66</string>
@@ -3540,6 +3648,7 @@
       <string>uni7067</string>
       <string>uni7069</string>
       <string>uni706B</string>
+      <string>uni706C</string>
       <string>uni7070</string>
       <string>uni7078</string>
       <string>uni707C</string>
@@ -3649,6 +3758,7 @@
       <string>uni71ED</string>
       <string>uni71EE</string>
       <string>uni71F4</string>
+      <string>uni71F9</string>
       <string>uni71FB</string>
       <string>uni71FC</string>
       <string>uni71FE</string>
@@ -3691,6 +3801,7 @@
       <string>uni7266</string>
       <string>uni7267</string>
       <string>uni7269</string>
+      <string>uni726E</string>
       <string>uni726F</string>
       <string>uni7272</string>
       <string>uni7274</string>
@@ -3711,6 +3822,7 @@
       <string>uni72A2</string>
       <string>uni72A7</string>
       <string>uni72AC</string>
+      <string>uni72AD</string>
       <string>uni72AE</string>
       <string>uni72AF</string>
       <string>uni72B0</string>
@@ -3742,6 +3854,7 @@
       <string>uni72FC</string>
       <string>uni72FD</string>
       <string>uni7301</string>
+      <string>uni730A</string>
       <string>uni730B</string>
       <string>uni7312</string>
       <string>uni7313</string>
@@ -3855,6 +3968,7 @@
       <string>uni745C</string>
       <string>uni745E</string>
       <string>uni745F</string>
+      <string>uni7460</string>
       <string>uni7463</string>
       <string>uni7464</string>
       <string>uni7469</string>
@@ -3914,6 +4028,7 @@
       <string>uni7529</string>
       <string>uni752B</string>
       <string>uni752C</string>
+      <string>uni752D</string>
       <string>uni752F</string>
       <string>uni7530</string>
       <string>uni7531</string>
@@ -3931,6 +4046,8 @@
       <string>uni754E</string>
       <string>uni754F</string>
       <string>uni7550</string>
+      <string>uni7551</string>
+      <string>uni7553</string>
       <string>uni7554</string>
       <string>uni7559</string>
       <string>uni755A</string>
@@ -4078,6 +4195,7 @@
       <string>uni7685</string>
       <string>uni7686</string>
       <string>uni7687</string>
+      <string>uni7688</string>
       <string>uni768E</string>
       <string>uni7690</string>
       <string>uni7693</string>
@@ -4158,6 +4276,7 @@
       <string>uni7763</string>
       <string>uni7765</string>
       <string>uni7766</string>
+      <string>uni7768</string>
       <string>uni776A</string>
       <string>uni776B</string>
       <string>uni776C</string>
@@ -4230,10 +4349,12 @@
       <string>uni782C</string>
       <string>uni782D</string>
       <string>uni7830</string>
+      <string>uni7832</string>
       <string>uni7834</string>
       <string>uni7837</string>
       <string>uni7838</string>
       <string>uni7839</string>
+      <string>uni783C</string>
       <string>uni7843</string>
       <string>uni7845</string>
       <string>uni7847</string>
@@ -4250,6 +4371,7 @@
       <string>uni786E</string>
       <string>uni786F</string>
       <string>uni787C</string>
+      <string>uni7881</string>
       <string>uni7887</string>
       <string>uni7889</string>
       <string>uni788C</string>
@@ -4310,11 +4432,13 @@
       <string>uni7931</string>
       <string>uni7934</string>
       <string>uni793A</string>
+      <string>uni793B</string>
       <string>uni793E</string>
       <string>uni7940</string>
       <string>uni7941</string>
       <string>uni7942</string>
       <string>uni7946</string>
+      <string>uni7947</string>
       <string>uni7948</string>
       <string>uni7949</string>
       <string>uni7950</string>
@@ -4436,6 +4560,7 @@
       <string>uni7AAC</string>
       <string>uni7AAE</string>
       <string>uni7AAF</string>
+      <string>uni7AB3</string>
       <string>uni7AB6</string>
       <string>uni7ABA</string>
       <string>uni7ABF</string>
@@ -4472,6 +4597,7 @@
       <string>uni7B2B</string>
       <string>uni7B2C</string>
       <string>uni7B2E</string>
+      <string>uni7B38</string>
       <string>uni7B45</string>
       <string>uni7B46</string>
       <string>uni7B47</string>
@@ -4492,6 +4618,7 @@
       <string>uni7B77</string>
       <string>uni7B7B</string>
       <string>uni7B85</string>
+      <string>uni7B87</string>
       <string>uni7B8B</string>
       <string>uni7B8D</string>
       <string>uni7B8F</string>
@@ -4571,6 +4698,7 @@
       <string>uni7CB3</string>
       <string>uni7CB5</string>
       <string>uni7CB9</string>
+      <string>uni7CBC</string>
       <string>uni7CBD</string>
       <string>uni7CBE</string>
       <string>uni7CC5</string>
@@ -4598,6 +4726,7 @@
       <string>uni7CF4</string>
       <string>uni7CF6</string>
       <string>uni7CF8</string>
+      <string>uni7CF9</string>
       <string>uni7CFB</string>
       <string>uni7CFE</string>
       <string>uni7D00</string>
@@ -4812,17 +4941,20 @@
       <string>uni7F95</string>
       <string>uni7F9A</string>
       <string>uni7F9D</string>
+      <string>uni7F9E</string>
       <string>uni7FA1</string>
       <string>uni7FA3</string>
       <string>uni7FA5</string>
       <string>uni7FA7</string>
       <string>uni7FA9</string>
       <string>uni7FAF</string>
+      <string>uni7FB0</string>
       <string>uni7FB2</string>
       <string>uni7FB4</string>
       <string>uni7FB6</string>
       <string>uni7FB8</string>
       <string>uni7FB9</string>
+      <string>uni7FBC</string>
       <string>uni7FBD</string>
       <string>uni7FBF</string>
       <string>uni7FC1</string>
@@ -4863,6 +4995,7 @@
       <string>uni8014</string>
       <string>uni8015</string>
       <string>uni8016</string>
+      <string>uni8017</string>
       <string>uni8018</string>
       <string>uni8019</string>
       <string>uni801C</string>
@@ -4907,6 +5040,7 @@
       <string>uni807D</string>
       <string>uni807E</string>
       <string>uni807F</string>
+      <string>uni8080</string>
       <string>uni8084</string>
       <string>uni8085</string>
       <string>uni8086</string>
@@ -5124,6 +5258,7 @@
       <string>uni8274</string>
       <string>uni8277</string>
       <string>uni8277.alt</string>
+      <string>uni8279</string>
       <string>uni827D</string>
       <string>uni827E</string>
       <string>uni827F</string>
@@ -5140,6 +5275,7 @@
       <string>uni829D</string>
       <string>uni829F</string>
       <string>uni82A1</string>
+      <string>uni82A4</string>
       <string>uni82A5</string>
       <string>uni82A9</string>
       <string>uni82AA</string>
@@ -5252,6 +5388,7 @@
       <string>uni83CA</string>
       <string>uni83CC</string>
       <string>uni83CF</string>
+      <string>uni83D3</string>
       <string>uni83D4</string>
       <string>uni83D6</string>
       <string>uni83D8</string>
@@ -5320,6 +5457,7 @@
       <string>uni8490</string>
       <string>uni8493</string>
       <string>uni8494</string>
+      <string>uni8497</string>
       <string>uni8499</string>
       <string>uni849C</string>
       <string>uni84A1</string>
@@ -5380,6 +5518,7 @@
       <string>uni8559</string>
       <string>uni855E</string>
       <string>uni8562</string>
+      <string>uni8564</string>
       <string>uni8568</string>
       <string>uni8569</string>
       <string>uni856A</string>
@@ -5465,6 +5604,7 @@
       <string>uni867B</string>
       <string>uni867C</string>
       <string>uni868A</string>
+      <string>uni868B</string>
       <string>uni868C</string>
       <string>uni868D</string>
       <string>uni8693</string>
@@ -5631,11 +5771,13 @@
       <string>uni8861</string>
       <string>uni8862</string>
       <string>uni8863</string>
+      <string>uni8864</string>
       <string>uni8868</string>
       <string>uni8869</string>
       <string>uni886B</string>
       <string>uni886E</string>
       <string>uni8870</string>
+      <string>uni8872</string>
       <string>uni8877</string>
       <string>uni8879</string>
       <string>uni887D</string>
@@ -5743,6 +5885,7 @@
       <string>uni89F6</string>
       <string>uni89F8</string>
       <string>uni8A00</string>
+      <string>uni8A01</string>
       <string>uni8A02</string>
       <string>uni8A03</string>
       <string>uni8A07</string>
@@ -5908,6 +6051,7 @@
       <string>uni8B9A</string>
       <string>uni8B9C</string>
       <string>uni8B9E</string>
+      <string>uni8BA0</string>
       <string>uni8C37</string>
       <string>uni8C3F</string>
       <string>uni8C41</string>
@@ -5932,6 +6076,7 @@
       <string>uni8C6A</string>
       <string>uni8C6B</string>
       <string>uni8C6C</string>
+      <string>uni8C73</string>
       <string>uni8C78</string>
       <string>uni8C79</string>
       <string>uni8C7A</string>
@@ -6063,6 +6208,7 @@
       <string>uni8DF3</string>
       <string>uni8DFA</string>
       <string>uni8DFC</string>
+      <string>uni8DFD</string>
       <string>uni8E05</string>
       <string>uni8E09</string>
       <string>uni8E0F</string>
@@ -6109,6 +6255,7 @@
       <string>uni8E82</string>
       <string>uni8E85</string>
       <string>uni8E87</string>
+      <string>uni8E89</string>
       <string>uni8E8A</string>
       <string>uni8E8B</string>
       <string>uni8E8D</string>
@@ -6126,6 +6273,7 @@
       <string>uni8EAA</string>
       <string>uni8EAB</string>
       <string>uni8EAC</string>
+      <string>uni8EAD</string>
       <string>uni8EB2</string>
       <string>uni8EBA</string>
       <string>uni8EC0</string>
@@ -6196,6 +6344,8 @@
       <string>uni8FB1</string>
       <string>uni8FB2</string>
       <string>uni8FB5</string>
+      <string>uni8FB6</string>
+      <string>uni8FBC</string>
       <string>uni8FC2</string>
       <string>uni8FC4</string>
       <string>uni8FC5</string>
@@ -6322,6 +6472,7 @@
       <string>uni90B8</string>
       <string>uni90BE</string>
       <string>uni90C1</string>
+      <string>uni90C4</string>
       <string>uni90C5</string>
       <string>uni90C7</string>
       <string>uni90CA</string>
@@ -6388,7 +6539,6 @@
       <string>uni9177</string>
       <string>uni9178</string>
       <string>uni9179</string>
-      <string>uni917C</string>
       <string>uni9183</string>
       <string>uni9187</string>
       <string>uni918B</string>
@@ -6407,6 +6557,7 @@
       <string>uni91AB</string>
       <string>uni91AC</string>
       <string>uni91AD</string>
+      <string>uni91AF</string>
       <string>uni91B4</string>
       <string>uni91B5</string>
       <string>uni91BA</string>
@@ -6422,6 +6573,8 @@
       <string>uni91CF</string>
       <string>uni91D0</string>
       <string>uni91D1</string>
+      <string>uni91D2</string>
+      <string>uni91D3</string>
       <string>uni91D4</string>
       <string>uni91D5</string>
       <string>uni91D7</string>
@@ -6473,6 +6626,7 @@
       <string>uni924B</string>
       <string>uni924D</string>
       <string>uni9251</string>
+      <string>uni9255</string>
       <string>uni9257</string>
       <string>uni925A</string>
       <string>uni925E</string>
@@ -6500,6 +6654,7 @@
       <string>uni92A5</string>
       <string>uni92A6</string>
       <string>uni92A8</string>
+      <string>uni92A9</string>
       <string>uni92AA</string>
       <string>uni92AB</string>
       <string>uni92AC</string>
@@ -6518,6 +6673,7 @@
       <string>uni92D2</string>
       <string>uni92DD</string>
       <string>uni92DF</string>
+      <string>uni92E3</string>
       <string>uni92E4</string>
       <string>uni92E5</string>
       <string>uni92E6</string>
@@ -6625,6 +6781,7 @@
       <string>uni9419</string>
       <string>uni941D</string>
       <string>uni9420</string>
+      <string>uni9426</string>
       <string>uni9427</string>
       <string>uni9428</string>
       <string>uni942E</string>
@@ -6641,9 +6798,11 @@
       <string>uni9451</string>
       <string>uni9452</string>
       <string>uni9454</string>
+      <string>uni945B</string>
       <string>uni9460</string>
       <string>uni9463</string>
       <string>uni9465</string>
+      <string>uni946B</string>
       <string>uni946D</string>
       <string>uni9470</string>
       <string>uni9472</string>
@@ -6655,6 +6814,7 @@
       <string>uni947F</string>
       <string>uni9577</string>
       <string>uni9580</string>
+      <string>uni9582</string>
       <string>uni9583</string>
       <string>uni9586</string>
       <string>uni9589</string>
@@ -6687,6 +6847,7 @@
       <string>uni95BF</string>
       <string>uni95C3</string>
       <string>uni95C6</string>
+      <string>uni95C7</string>
       <string>uni95C8</string>
       <string>uni95CA</string>
       <string>uni95CB</string>
@@ -6701,6 +6862,7 @@
       <string>uni95E2</string>
       <string>uni95E5</string>
       <string>uni961C</string>
+      <string>uni961D</string>
       <string>uni961E</string>
       <string>uni9621</string>
       <string>uni9622</string>
@@ -6729,6 +6891,7 @@
       <string>uni9663</string>
       <string>uni9664</string>
       <string>uni9667</string>
+      <string>uni966A</string>
       <string>uni966C</string>
       <string>uni9670</string>
       <string>uni9672</string>
@@ -6753,6 +6916,7 @@
       <string>uni9699</string>
       <string>uni969B</string>
       <string>uni969C</string>
+      <string>uni96A3</string>
       <string>uni96A7</string>
       <string>uni96A8</string>
       <string>uni96AA</string>
@@ -6790,6 +6954,7 @@
       <string>uni96E8</string>
       <string>uni96E9</string>
       <string>uni96EA</string>
+      <string>uni96F0</string>
       <string>uni96F2</string>
       <string>uni96F6</string>
       <string>uni96F7</string>
@@ -6805,6 +6970,7 @@
       <string>uni970E</string>
       <string>uni970F</string>
       <string>uni9711</string>
+      <string>uni9713</string>
       <string>uni9716</string>
       <string>uni971C</string>
       <string>uni971D</string>
@@ -6924,9 +7090,11 @@
       <string>uni98BB</string>
       <string>uni98BC</string>
       <string>uni98C4</string>
+      <string>uni98C8</string>
       <string>uni98CA</string>
       <string>uni98DB</string>
       <string>uni98DF</string>
+      <string>uni98E0</string>
       <string>uni98E1</string>
       <string>uni98E2</string>
       <string>uni98E7</string>
@@ -7015,6 +7183,7 @@
       <string>uni9A16</string>
       <string>uni9A19</string>
       <string>uni9A2B</string>
+      <string>uni9A2D</string>
       <string>uni9A2E</string>
       <string>uni9A30</string>
       <string>uni9A36</string>
@@ -7128,6 +7297,7 @@
       <string>uni9BDB</string>
       <string>uni9BDD</string>
       <string>uni9BE1</string>
+      <string>uni9BE2</string>
       <string>uni9BE4</string>
       <string>uni9BE7</string>
       <string>uni9BE8</string>
@@ -7182,6 +7352,7 @@
       <string>uni9D07</string>
       <string>uni9D08</string>
       <string>uni9D09</string>
+      <string>uni9D12</string>
       <string>uni9D15</string>
       <string>uni9D1B</string>
       <string>uni9D1D</string>
@@ -7262,6 +7433,7 @@
       <string>uni9EB5</string>
       <string>uni9EBB</string>
       <string>uni9EBC</string>
+      <string>uni9EBE</string>
       <string>uni9EC3</string>
       <string>uni9ECC</string>
       <string>uni9ECD</string>
@@ -7290,6 +7462,7 @@
       <string>uni9EFF</string>
       <string>uni9F00</string>
       <string>uni9F07</string>
+      <string>uni9F08</string>
       <string>uni9F09</string>
       <string>uni9F0E</string>
       <string>uni9F10</string>
@@ -7724,6 +7897,16 @@
       <string>uni2FD2</string>
       <string>uni2FD2.left</string>
       <string>uni2FD5.bottompart</string>
+      <string>uniFF10</string>
+      <string>uniFF11</string>
+      <string>uniFF12</string>
+      <string>uniFF13</string>
+      <string>uniFF14</string>
+      <string>uniFF15</string>
+      <string>uniFF16</string>
+      <string>uniFF17</string>
+      <string>uniFF18</string>
+      <string>uniFF19</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -7756,29 +7939,43 @@
       <string>numbersign</string>
       <string>slash</string>
       <string>backslash</string>
+      <string>uniFF06</string>
+      <string>uniFF0A</string>
+      <string>uniFF20</string>
+      <string>uniFF3C</string>
       <string>uniFF1A</string>
       <string>uniFF0C</string>
       <string>uniFF01</string>
       <string>periodcentered.loclCAT</string>
+      <string>uniFF03</string>
+      <string>uniFF05</string>
+      <string>uniFF0E</string>
       <string>uniFF1F</string>
       <string>uniFF02</string>
       <string>uniFF07</string>
       <string>uniFF1B</string>
+      <string>uniFF0F</string>
+      <string>uniFF3F</string>
       <string>periodcentered.loclCAT.case</string>
       <string>hyphen</string>
       <string>endash</string>
       <string>emdash</string>
       <string>underscore</string>
+      <string>uniFF0D</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>braceleft</string>
       <string>braceright</string>
       <string>bracketleft</string>
       <string>bracketright</string>
+      <string>uniFF5B</string>
+      <string>uniFF5D</string>
       <string>uni300C</string>
       <string>uni300D</string>
       <string>uni300A</string>
       <string>uni300B</string>
+      <string>uniFF3B</string>
+      <string>uniFF3D</string>
       <string>uniFF08</string>
       <string>uniFF09</string>
       <string>quotesinglbase</string>
@@ -7793,6 +7990,9 @@
       <string>guilsinglright</string>
       <string>quotedbl</string>
       <string>quotesingle</string>
+      <string>uniFF3E</string>
+      <string>uniFF40</string>
+      <string>uniFFE3</string>
       <string>at</string>
       <string>ampersand</string>
       <string>paragraph</string>
@@ -7803,11 +8003,16 @@
       <string>degree</string>
       <string>bar</string>
       <string>brokenbar</string>
+      <string>uniFFE4</string>
       <string>cent</string>
       <string>dollar</string>
       <string>Euro</string>
       <string>sterling</string>
       <string>yen</string>
+      <string>uniFFE0</string>
+      <string>uniFF04</string>
+      <string>uniFFE1</string>
+      <string>uniFFE5</string>
       <string>plus</string>
       <string>minus</string>
       <string>multiply</string>
@@ -7818,6 +8023,12 @@
       <string>asciitilde</string>
       <string>asciicircum</string>
       <string>percent</string>
+      <string>uniFF5E</string>
+      <string>uniFF5C</string>
+      <string>uniFF1D</string>
+      <string>uniFF1E</string>
+      <string>uniFF1C</string>
+      <string>uniFF0B</string>
       <string>uni0308</string>
       <string>uni0307</string>
       <string>gravecomb</string>
@@ -7906,6 +8117,7 @@
       <string>_part.uni4E02</string>
       <string>_part.uni4E03</string>
       <string>_part.uni4E04</string>
+      <string>_part.uni4E07</string>
       <string>_part.uni4E08</string>
       <string>_part.uni4E09</string>
       <string>_part.uni4E0B</string>
@@ -8388,6 +8600,7 @@
       <string>_part.uni81F1</string>
       <string>_part.uni81FE</string>
       <string>_part.uni81FF</string>
+      <string>_part.uni8204</string>
       <string>_part.uni8209</string>
       <string>_part.uni820C</string>
       <string>_part.uni826F</string>
@@ -8572,6 +8785,7 @@
       <string>_part.uni9109.top</string>
       <string>_part.uni912D.leftpart</string>
       <string>_part.uni96DA.left</string>
+      <string>_part.uni9AEE.rightpart</string>
       <string>_part.uni9E97.left</string>
       <string>_part.uni9EC3.right</string>
       <string>_part.uni9FB6.left</string>
@@ -8694,6 +8908,7 @@
       <string>_part.uni4E03</string>
       <string>_part.uni4E03.left</string>
       <string>_part.uni4E04</string>
+      <string>_part.uni4E07</string>
       <string>_part.uni4E08</string>
       <string>_part.uni4E09</string>
       <string>_part.uni4E0B</string>
@@ -9281,6 +9496,7 @@
       <string>_part.uni81FE</string>
       <string>_part.uni81FF</string>
       <string>_part.uni81FF.right</string>
+      <string>_part.uni8204</string>
       <string>_part.uni8208.toppart</string>
       <string>_part.uni8209</string>
       <string>_part.uni820C</string>
@@ -9340,6 +9556,7 @@
       <string>_part.uni96DA.left</string>
       <string>_part.uni97CB</string>
       <string>_part.uni97F1</string>
+      <string>_part.uni9AEE.rightpart</string>
       <string>_part.uni9B5D</string>
       <string>_part.uni9E97</string>
       <string>_part.uni9E97.left</string>
